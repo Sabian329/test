@@ -1,0 +1,1280 @@
+[
+	{
+		"rok": 2021,
+		"nr": 1,
+		"tresc": "Jaką rolę spełnia cytrynian lub fosforan dodawany do mleka zagęszczonego:",
+		"odpowiedzi": [
+			{ "tresc": "wiążą się z wapniem w micelach kazeiny", "correct": false },
+			{ "tresc": "podwyższają pH kazeiny", "correct": false },
+			{ "tresc": "podwyższają pH mleka", "correct": false },
+			{ "tresc": "podwyższają termostabilność mleka", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 2,
+		"tresc": "Zagęszczenie mleka w wyparkach wielodziałowych prowadzone jest w zakresie\ntemperatur i ciśnień:",
+		"odpowiedzi": [
+			{ "tresc": "85-45*C; 0,5-0,1 atm", "correct": false },
+			{ "tresc": "70-45*C; 0,32-0,1 atm ← sprawdzone", "correct": true },
+			{ "tresc": "100,17-70*C; 1-0,32 atm", "correct": false },
+			{ "tresc": "85-70*C; 0,5-0,3 atm", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 3,
+		"tresc": "W składzie tłuszczu mlecznego najwięcej wśród kwasów nasyconych i\nnienasyconych odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "kwasu palmitynowego i oleinowego", "correct": true },
+			{ "tresc": "kwasu stearynowego i oleinowego", "correct": false },
+			{ "tresc": "kwasu mirystynowego i linolowego", "correct": false },
+			{ "tresc": "kwasu masłowego i linolowego", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 4,
+		"tresc": "Największy wpływ na kształtowanie cech organoleptycznych jogurtu i masła\nmają odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "aldehyd octowy i kwasy tłuszczowe", "correct": false },
+			{ "tresc": "diacetyl i kwas masłowy", "correct": false },
+			{ "tresc": "acetoina i aldehyd octowy", "correct": false },
+			{ "tresc": "acetaldehyd i diacetyl", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 5,
+		"tresc": "Koszt energetyczny odparowania wody (w kg pary/kg wody) z mleka jest\nnajwiększy w:",
+		"odpowiedzi": [
+			{ "tresc": "suszarce walcowej", "correct": false },
+			{ "tresc": "suszarce fluidyzacyjnej", "correct": false },
+			{ "tresc": "w wieży rozpyłowej", "correct": true },
+			{ "tresc": "wyparce próżniowej", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 6,
+		"tresc": "Mleko odpowiedniej jakości spełnia następujące wymagania:",
+		"odpowiedzi": [
+			{
+				"tresc": "ogólna liczba drobnoustrojów < 100 tys/ml, zaw. komórek somatycznych <\n400 tys/ml",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 7,
+		"tresc": "Które bakterie obecne w mleku surowym stanowią największe zagrożenie dla\njakości i trwałości przetworów mlecznych:",
+		"odpowiedzi": [
+			{ "tresc": "z rodzaju Pseudomonas i Flavobacterium", "correct": true },
+			{ "tresc": "z rodzaju Micrococcus i Microbacterium", "correct": false },
+			{ "tresc": "z rodzaju Lactococcus i Lactobacillus", "correct": false },
+			{ "tresc": "z rodzaju Bacillus i Clostridium", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 8,
+		"tresc": "Koagulacja enzymatyczna kazeiny wymaga stosowania:",
+		"odpowiedzi": [
+			{ "tresc": "pepsyny", "correct": false },
+			{ "tresc": "podpuszczki, pH 4,6", "correct": false },
+			{ "tresc": "chymozyny (renniny), temp > 20*C, pH 4,6", "correct": false },
+			{
+				"tresc": "podpuszczki, temp. > 20*C, obecności jonów Ca2+",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 9,
+		"tresc": "Sucha masa mleka krów rasy holsztyńsko-fryzyjskiej wynosi:",
+		"odpowiedzi": [
+			{ "tresc": "12-13 %", "correct": true },
+			{ "tresc": "9,5-11 %", "correct": false },
+			{ "tresc": "13-15 %", "correct": false },
+			{ "tresc": "8,5-9,5 %", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 10,
+		"tresc": "Enzymy diagnostyczne niskiej i wysokiej pasteryzacji mleka i śmietanki to:",
+		"odpowiedzi": [
+			{
+				"tresc": "fosfataza alkaliczna, peroksydaza, laktoperoksydaza",
+				"correct": true
+			},
+			{
+				"tresc": "fosfataza alkaliczna, laktoperoksydaza i lipaza",
+				"correct": false
+			},
+			{
+				"tresc": "fosfataza alkaliczna, laktoperoksydaza, kwaśna fosfataza",
+				"correct": false
+			},
+			{
+				"tresc": "lipaza lipoproteinowa, fosfataza alkaliczna, plazmina",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 11,
+		"tresc": "Podwyższenie kwasowości w czasie ogrzewania mleka następuję w wyniku:",
+		"odpowiedzi": [
+			{ "tresc": "fermentacji laktozy do kwasu mlekowego", "correct": false },
+			{ "tresc": "hydrolizy kazeiny i rozkładu laktozy", "correct": false },
+			{ "tresc": "wytrącenia Ca3(PO4)2 i rozkładu laktozy", "correct": true },
+			{ "tresc": "uwolnienia kwasów tłuszczowych", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 12,
+		"tresc": "W kazeinie mleka krowiego największy udział ma:",
+		"odpowiedzi": [
+			{ "tresc": "ALFAs2-kazeina", "correct": false },
+			{ "tresc": "ALFAs1-kazeina", "correct": true },
+			{ "tresc": "BETA-kazeina", "correct": false },
+			{ "tresc": "KAPPA-kazeina", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 13,
+		"tresc": "Przy produkcji serów twarogowych można stosować następujące warunki\nkoagulacji:",
+		"odpowiedzi": [
+			{ "tresc": "20-23*C, 12h lub 42-45*C, 5-6h", "correct": false },
+			{ "tresc": "29-31*C, 2h", "correct": false },
+			{
+				"tresc": "20-23*C, 12h lub 35-38*C, 6-8h",
+				"correct": true
+			},
+			{ "tresc": "29-31*C, 40 min lub 20-23*C, 12h", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 14,
+		"tresc": "Parametry pasteryzacji niskiej krótkotrwałej to:",
+		"odpowiedzi": [
+			{ "tresc": "63-65*C, 30 min", "correct": false },
+			{ "tresc": "80-85*C, 15-40s", "correct": false },
+			{ "tresc": "92-95*C, 2s", "correct": false },
+			{
+				"tresc": "71,1-75*C, 15-40s",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 15,
+		"tresc": "Skład szczepionki maślarskiej jest nastepujący:",
+		"odpowiedzi": [
+			{
+				"tresc": "Lc.lactis, Lc.cremoris, Lc.dacetilactis, Leu cremoris",
+				"correct": true
+			},
+			{ "tresc": "Lc.lactis, Lc.cremoris, Lc.dacetilactis", "correct": false },
+			{ "tresc": "Lc.lactis, Lb. casei, Lc.cremoris", "correct": false },
+			{
+				"tresc": "Lc.lactis, Lc.cremoris, Lc.dacetilactis, Str.thermophilus",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 16,
+		"tresc": "Podjednostka enzymu syntetazy laktozy jest:",
+		"odpowiedzi": [
+			{ "tresc": "ALFAs1-kazeina", "correct": false },
+			{
+				"tresc": "ALFA-laktoalbumina",
+				"correct": true
+			},
+			{ "tresc": "albumina serum krwi", "correct": false },
+			{ "tresc": "BETA-laktoglobulina", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 17,
+		"tresc": "Suszenie wieloetapowe proszku mlecznego odbywa się:",
+		"odpowiedzi": [
+			{
+				"tresc": "w wieży suszarniczej i suszarkach wibrofluidyzacyjnych",
+				"correct": true
+			},
+			{
+				"tresc": "w wieży suszarniczej i oziębiaczu wibrofluidyzacyjnym",
+				"correct": false
+			},
+			{ "tresc": "met. fluidyzacyjną", "correct": false },
+			{ "tresc": "w wieży suszarniczej", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 18,
+		"tresc": "Tłuszcz mleczny jest:",
+		"odpowiedzi": [
+			{ "tresc": "tłuszczem wolnym", "correct": false },
+			{ "tresc": "bogaty w fosfolipidy", "correct": false },
+			{
+				"tresc": "łatwy do wyekstrahowania rozpuszczalnikami organicznymi",
+				"correct": false
+			},
+			{ "tresc": "otoczony membraną fosfolipidowo-białkową", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 19,
+		"tresc": "Uzdolnienia aromatotwórcze mezofilnych szczepionek mleczarskich wynikają\nz: homofermentacji laktozy",
+		"odpowiedzi": [
+			{
+				"tresc": "utylizacji cytrynianów z nich tworzony jest główny aromat produktów maślarskich →diacetyl",
+				"correct": true
+			},
+			{
+				"tresc": "aktywności proteolitycznej i lipolitycznej",
+				"correct": false
+			},
+			{ "tresc": "heterofermentacji laktozy", "correct": false }
+		]
+	},
+
+	{
+		"rok": 2021,
+		"nr": 20,
+		"tresc": "Stopień koncentracji składników sm przy produkcji proszku mlecznego\npełnego i chudego jest odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "2,5-4 –krotny", "correct": false },
+			{ "tresc": "12-20 –krotny", "correct": false },
+			{ "tresc": "4-8 –krotny", "correct": false },
+			{
+				"tresc": "8-11 –krotny nie ma nic wspólnego z logiką xd, tak o (stawiałabym na to, że mówił, że gdy\nmamy mleko z jakąś trującą subst, to po wysuszeniu jest jej 10x)",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 21,
+		"tresc": "Obniżenie potencjału oksydoredukującego mleka przy jego obróbce\ntermicznej spowodowane jest:",
+		"odpowiedzi": [
+			{ "tresc": "obniżeniem kwasowości", "correct": false },
+			{ "tresc": "denaturacją białek serwatkowych", "correct": true },
+			{ "tresc": "wzrostem kwasowości", "correct": false },
+			{ "tresc": "wytrąceniem kamienia mlecznego", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 22,
+		"tresc": "W maślance i serwatce zawartość sm wynosi odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "9 i 9%", "correct": false },
+			{ "tresc": "6 i 12%", "correct": false },
+			{ "tresc": "12 i 6%", "correct": false },
+			{
+				"tresc": "9 i 6% wiadomo w maślance więcej, ale stosunek mniejszy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 23,
+		"tresc": "Homogenizację mleka przeprowadza się w celu:",
+		"odpowiedzi": [
+			{
+				"tresc": "inaktywacji enzymów związanych z otoczką fosfolipidową",
+				"correct": false
+			},
+			{ "tresc": "częściowej hydrolizy tłuszczu", "correct": false },
+			{
+				"tresc": "zniszczenia otoczek fosfolipidowych tłuszczu",
+				"correct": false
+			},
+			{ "tresc": "wyeliminowania zjawiska podstoju tłuszczu", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 24,
+		"tresc": "Białka serwatkowe ulegają wytrąceniu",
+		"odpowiedzi": [
+			{ "tresc": "w pH 4,6 (kazeina)", "correct": false },
+			{ "tresc": "w podwyższonej temperaturze", "correct": true },
+			{ "tresc": "w pH 4,5", "correct": false },
+			{ "tresc": "w obecności podpuszczki", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 25,
+		"tresc": "Częstotliwość badań bakteriologicznych i oznaczeń zawartości komórek\nsomatycznych wynosi odpowiednio:",
+		"odpowiedzi": [
+			{
+				"tresc": "min. 2 razy w miesiącu i 1 raz w miesiącu",
+				"correct": true
+			},
+			{ "tresc": "min. 1 raz w miesiącu i 1 raz w miesiącu", "correct": false },
+			{ "tresc": "min 3 razy w miesiącu i 1 raz w miesiącu", "correct": false },
+			{ "tresc": "min 3 razy w miesiącu i 3 razy w miesiącu", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 26,
+		"tresc": "W czasie sterylizacji UHT nie ulegają inaktywacji enzymy:",
+		"odpowiedzi": [
+			{
+				"tresc": "proteazy psychrotrofów i alkaliczna fosfataza",
+				"correct": false
+			},
+			{
+				"tresc": "plazmina i kwaśna fosfataza bo kwaśna fosfataza nie do zajebania",
+				"correct": true
+			},
+			{ "tresc": "plazmina i zasadowa fosfataza", "correct": false },
+			{ "tresc": "plazmina i laktoperoksydaza", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 27,
+		"tresc": "Enzymem hydrolizującym laktozę do monocukrów jest:",
+		"odpowiedzi": [
+			{
+				"tresc": "BETA-galaktozydaza bo z galaktozy i glukozy",
+				"correct": true
+			},
+			{ "tresc": "BETA-glukozydaza", "correct": false },
+			{ "tresc": "ALFA- amylaza", "correct": false },
+			{ "tresc": "ALFA-glukozydaza", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 28,
+		"tresc": "Efekt sterylizacyjny uzyskiwany podczas produkcji mleka UHT opisywany jest\nprzez:",
+		"odpowiedzi": [
+			{
+				"tresc": "parametr mikrobiologiczny B i chemiczny C",
+				"correct": true
+			},
+			{ "tresc": "wartość D", "correct": false },
+			{ "tresc": "logN - logN0", "correct": false },
+			{ "tresc": "określenie stopnia proteolizy i lipolizy", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 29,
+		"tresc": "Kwasowość świeżego mleka wynosi:",
+		"odpowiedzi": [
+			{ "tresc": "7.5 - 8.5 *SH", "correct": false },
+			{ "tresc": "6.5 - 7.5 *SH pH 6,6-6,7", "correct": true },
+			{ "tresc": "17.5 *SH", "correct": false },
+			{ "tresc": "6 - 6.5 *SH", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 30,
+		"tresc": "Jaki jest obieg mleka w pasteryzatorze płytowym podczas pasteryzacji\nwysokiej długotrwałej (85*C, 15 min):",
+		"odpowiedzi": [
+			{
+				"tresc": "sekcja wymiany - wirówka- sekcja pasteryzacji - przetrzymywacz - sekcja\nwymiany - sekcja chłodzenia 2 wymiany muszą być",
+				"correct": true
+			},
+			{
+				"tresc": "sekcja wymiany - wirówka - sekcja pasteryzacji - przetrzymywacz - sekcja\nchłodzenia",
+				"correct": false
+			},
+			{
+				"tresc": "sekcja wymiany - sekcja pasteryzacji - przetrzymywacz - sekcja chłodzenia",
+				"correct": false
+			},
+			{
+				"tresc": "sekcja regeneracji - sekcja pasteryzacji - wirówka - sekcja chłodzenia",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 31,
+		"tresc": "Jakie są kolejne etapy w produkcji mleka UHT met.bezpośrednią:",
+		"odpowiedzi": [
+			{
+				"tresc": "wstępne ogrzanie w wymienniku płytowym - pasteryzator - przetrzymywacz -\nsterylizacja parą - chłodzenie próżniowe - homogenizacja - chłodzenie\nregeneracyjne - aseptyczne pakowanie ster chłód hom chłód",
+				"correct": true
+			},
+			{
+				"tresc": "wstępne ogrzanie w wymienniku płytowym - pasteryzator - przetrzymywacz -\nhomogenizacja - sterylizacja parą - chłodzenie próżniowe - chłodzenie\nregeneracyjne - aseptyczne pakowanie",
+				"correct": false
+			},
+			{
+				"tresc": "wstępne ogrzanie w wymienniku płytowym - pasteryzator - przetrzymywacz -\nsterylizacja parą - chłodzenie zimną wodą - homogenizacja - aseptyczne\npakowanie",
+				"correct": false
+			},
+			{
+				"tresc": "wstępne ogrzanie w wymienniku płytowym - pasteryzator - przetrzymywacz -\nhomogenizacja - sterylizacja parą - chłodzenie zimną wodą - aseptyczne\npakowanie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 32,
+		"tresc": "Jakie drobnoustroje obligatoryjne są oznaczane w produktach mlecznych, aby\npotwierdzić ich bezpieczeństwo:",
+		"odpowiedzi": [
+			{ "tresc": "bakterie z rodzaju Pseudomonas ←?", "correct": false },
+			{ "tresc": "Listeria monocytogenes i Salmonella sp.", "correct": true },
+			{ "tresc": "Staphylococcus aureus i Escherichia coli", "correct": false },
+			{ "tresc": "?", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 33,
+		"tresc": "Największa synereza ma miejsce przy obróbce skrzepu w technologii produkcji\nserów:",
+		"odpowiedzi": [
+			{
+				"tresc": "serów twardych szwajcarskich no bo twardy, więcej cieczy usuwa się",
+				"correct": true
+			},
+			{ "tresc": "serów pleśniowych", "correct": false },
+			{ "tresc": "serów półtwardych holenderskich", "correct": false },
+			{ "tresc": "miękkich", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 34,
+		"tresc": "Fermentacja propionowa ma miejsce w:",
+		"odpowiedzi": [
+			{ "tresc": "śmietanie", "correct": false },
+			{ "tresc": "w serze Cheddar", "correct": false },
+			{ "tresc": "w serach szwajcarskich dziurkiii", "correct": true },
+			{ "tresc": "jogurcie", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 35,
+		"tresc": "System regeneracji ciepła w pasteryzatorze polega na:",
+		"odpowiedzi": [
+			{
+				"tresc": "odzyskiwaniu ciepła z właściwej sekcji pasteryzacji i wykorzystaniu go w\ninnych działach zakładu",
+				"correct": false
+			},
+			{
+				"tresc": "wykorzystaniu ciepła z sekcji pasteryzacji i wykorzystaniu go do ogrzewania\nwody do mycia instalacji",
+				"correct": false
+			},
+			{
+				"tresc": "wykorzystaniu ciepła ogrzanej wody do podgrzania mleka wchodzącego do\nsekcji wymiany",
+				"correct": false
+			},
+			{
+				"tresc": "kierowaniu mleka pasteryzowanego do sekcji wymiany w celu ogrzania mleka\nwchodzącego do pasteryzatora oszczędzać trzeba! xd",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 36,
+		"tresc": "Dojrzewanie fizyczne śmietanki ma na celu:",
+		"odpowiedzi": [
+			{
+				"tresc": "krystalizacja części tłuszczu w kułeczkach kolos 2 wiadomix",
+				"correct": true
+			},
+			{
+				"tresc": "uwolnienie tłuszczu z kuleczek tłuszczowych",
+				"correct": false
+			},
+			{
+				"tresc": "zniszczenie otoczek kułeczek tłuszczowych",
+				"correct": false
+			},
+			{ "tresc": "uzyskanie odpowiedniej kwasowości", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 37,
+		"tresc": "Najbardziej podatna na działanie chymozyny jest:",
+		"odpowiedzi": [
+			{ "tresc": "KAPPA-kazeina no bo jest na zewnątrz", "correct": true },
+			{ "tresc": "białka serwatkowe", "correct": false },
+			{ "tresc": "ALFAsi-kazeina", "correct": false },
+			{ "tresc": "BETA-kazeina", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 38,
+		"tresc": "Wirówka do mleka półzamknięta posiada:",
+		"odpowiedzi": [
+			{
+				"tresc": "dopływ mleka pełnego otwarty, odpływ mleka i śmietanki zamknięty",
+				"correct": false
+			},
+			{
+				"tresc": "dopływ mleka pełnego otwarty, odpływ mleka zamknięty i śmietanki otwarty\nlogiczne",
+				"correct": true
+			},
+			{
+				"tresc": "dopływ mleka pełnego zamknięty, odpływ mleka i śmietanki otwarty",
+				"correct": false
+			},
+			{
+				"tresc": "dopływ mleka pełnego zamknięty, odpływ mleka otwarty i śmietanki zamknięty",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 39,
+		"tresc": "Instantynizacja bezpośrednia to:",
+		"odpowiedzi": [
+			{
+				"tresc": "modyfikacja procesu suszenia przez zastosowanie wielu etapów suszenia\nnwm, tak o",
+				"correct": true
+			},
+			{ "tresc": "nawilżenie proszku w wieży suszarniczej", "correct": false },
+			{ "tresc": "nawilżenie proszku w rurze aglomerującej", "correct": false },
+			{ "tresc": "zabieg lecytynizacji proszku", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 40,
+		"tresc": "W trakcie ogrzewania mleka laktoza:",
+		"odpowiedzi": [
+			{ "tresc": "wchodzi w interakcje z białkami", "correct": true },
+			{ "tresc": "utlenia się", "correct": false },
+			{ "tresc": "ulega redukcji", "correct": false },
+			{ "tresc": "ulega polimeryzacji", "correct": false }
+		]
+	},
+
+	{
+		"rok": 2022,
+		"nr": 1,
+		"tresc": "Wapń w mleku:",
+		"odpowiedzi": [
+			{ "tresc": "występuje w połączeniu z kazeiną", "correct": true },
+			{
+				"tresc": "bierze udział w tworzeniu skrzepu wydzielonego pod wpływem podpuszczki",
+				"correct": true
+			},
+			{
+				"tresc": "bierze udział w tworzeniu skrzepu wydzielonego w pH 4,6",
+				"correct": true
+			},
+			{ "tresc": "może polepszyć termostabilność kazeiny", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 2,
+		"tresc": "Maksymalna dopuszczalna kwasowość śmietanki kierowanej do produkcji masła wynosi:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) 20,0-22,0°SH (musi być zaznaczone, że śmietanki UKWASZONEJ (śmietany), to byłoby git",
+				"correct": false
+			},
+			{ "tresc": "b) 26,0-28,0°SH", "correct": false },
+			{ "tresc": "c) nie jest określona", "correct": false },
+			{ "tresc": "d) 8,0-10,0°SH", "correct": false },
+			{
+				"tresc": "e) śmietanka o kwasowości nie wyższej niż 6,0-8,0*SH w plazmie",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 3,
+		"tresc": "Tłuszcz mleczny jest:",
+		"odpowiedzi": [
+			{ "tresc": "otoczony membraną fosfolipidowo-białkową", "correct": true },
+			{ "tresc": "tłuszczem wolnym", "correct": false },
+			{ "tresc": "bardzo bogaty w fosfolipidy", "correct": false },
+			{
+				"tresc": "łatwy do wyekstrahowania rozpuszczalnikami organicznymi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 4,
+		"tresc": "Parametry pasteryzacji niskiej krótkotrwałej to:",
+		"odpowiedzi": [
+			{ "tresc": "a) 80-85℃, 15-40s", "correct": false },
+			{ "tresc": "b) 92-95℃, 2s", "correct": false },
+			{ "tresc": "c) 71-75℃, 15-40s", "correct": true },
+			{ "tresc": "d) 63-65℃, 30min", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 5,
+		"tresc": "Fizyczne dojrzewanie śmietanki:",
+		"odpowiedzi": [
+			{ "tresc": "a) powoduje powstawanie diacetylu", "correct": false },
+			{
+				"tresc": "b) wpływa na charakterystyczny zapach masła",
+				"correct": false
+			},
+			{
+				"tresc": "c) warunkuje uzyskanie właściwego stopnia wykrystalizowania tłuszczu mlekowego",
+				"correct": true
+			},
+			{
+				"tresc": "d) jest prowadzone jednakowo niezależnie od pory roku",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 6,
+		"tresc": "Przy produkcji serów stymuluje się proces synerezy poprzez:",
+		"odpowiedzi": [
+			{ "tresc": "a) obniżanie kwasowości", "correct": false },
+			{ "tresc": "b) dodatek NaCl", "correct": false },
+			{ "tresc": "c) dodatek chlorku wapnia", "correct": true },
+			{ "tresc": "d) podwyższanie temperatury", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 7,
+		"tresc": "Najliczniejszą grupę mikroflory świeżo pozyskanego mleka surowego stanowią:",
+		"odpowiedzi": [
+			{ "tresc": "a) Micrococcus i Staphylococcus", "correct": true },
+			{ "tresc": "b) Enterococcus i Streptococcus", "correct": false },
+			{ "tresc": "c) Pseudomonas i Acinetobacter", "correct": false },
+			{ "tresc": "d) Microbacterium i Corynebacterium", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 8,
+		"tresc": "Enzymy diagnostyczne niskiej pasteryzacji mleka i śmietanki to:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) fosfataza alkaliczna, laktoperoksydaza",
+				"correct": true
+			},
+			{ "tresc": "b) fosfataza kwaśna, plazmina", "correct": false },
+			{
+				"tresc": "c) fosfataza kwaśna, lipaza lipoproteinowa",
+				"correct": false
+			},
+			{
+				"tresc": "d) lipaza lipoproteinowa, fosfataza alkaliczna",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 9,
+		"tresc": "Czynniki wpływające na stopień dojrzałości biologicznej śmietany przeznaczonej do produkcji\nmasła to:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) wielkość kuleczek tłuszczowych to chyba fizyczne",
+				"correct": true
+			},
+			{ "tresc": "b) dodatek barwnika", "correct": false },
+			{ "tresc": "c) stopień wypełnienia maselnicy", "correct": false },
+			{ "tresc": "d) dawka zakwasu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 10,
+		"tresc": "Wygniatanie masła ma na celu:",
+		"odpowiedzi": [
+			{ "tresc": "poprawę trwałości", "correct": true },
+			{
+				"tresc": "usunięcie nadmiaru wody i standaryzację jej zawartości",
+				"correct": true
+			},
+			{ "tresc": "złączenie ziaren masła w jednolitą masę", "correct": true },
+			{ "tresc": "nadanie odpowiedniego smaku", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 11,
+		"tresc": "Koagulacja enzymatyczna kazeiny wymaga stosowania:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) podpuszczki, temperatury >20℃, obecności jonów Ca 2+",
+				"correct": true
+			},
+			{ "tresc": "b) podpuszczki, pH=4,6", "correct": false },
+			{
+				"tresc": "c) chymozyny (renniny) i temperatury >20℃, pH=4,6",
+				"correct": false
+			},
+			{ "tresc": "d) tylko podpuszczki niezależnie od temp.", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 12,
+		"tresc": "Białkiem mleka, które bierze udział w syntezie laktozy jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) β-kazeina", "correct": false },
+			{ "tresc": "b) betalaktoglobulina", "correct": false },
+			{ "tresc": "c) alfalaktoalbumina", "correct": true },
+			{ "tresc": "d) k-kazeina", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 13,
+		"tresc": "Homogenizację mleka przeprowadza się w celu:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) wyeliminowania zjawiska podstoju tłuszczu",
+				"correct": true
+			},
+			{
+				"tresc": "b) zniszczenia otoczek fosfolipidowych tłuszczu",
+				"correct": false
+			},
+			{
+				"tresc": "c) inaktywacji enzymów związanych z otoczką fosfolipidową",
+				"correct": false
+			},
+			{ "tresc": "d) częściowej hydrolizy tłuszczu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 14,
+		"tresc": "Laktuloza powstaje w mleku w wyniku:",
+		"odpowiedzi": [
+			{ "tresc": "a) procesu enzymatycznego", "correct": false },
+			{ "tresc": "b) ogrzewania pod ciśnieniem raczej to", "correct": true },
+			{ "tresc": "c) ogrzewania w środowisku kwaśnym", "correct": false },
+			{ "tresc": "d) ogrzewania w środowisku alkalicznym", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 15,
+		"tresc": "Kwasowość miareczkowa świeżego krowiego mleka surowego powinna wynosić:",
+		"odpowiedzi": [
+			{ "tresc": "a) 22°T", "correct": false },
+			{ "tresc": "b) 6,0-6,5°SH", "correct": false },
+			{ "tresc": "c) 7,5-8,5°SH", "correct": false },
+			{ "tresc": "d) 6,0-7,5°SH 6,5-7,5", "correct": true }
+		]
+	},
+
+	{
+		"rok": 2022,
+		"nr": 16,
+		"tresc": "Wysoka pasteryzacja śmietanki kierowanej do produkcji masła:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) ma na celu inaktywację bakteryjnych ciepłoopornych enzymów lipolitycznych",
+				"correct": true
+			},
+			{ "tresc": "b) nie jest stosowana", "correct": false },
+			{
+				"tresc": "c) jest wymuszona wysoką zawartością tłuszczu w śmietance i związaną z tym niższą\nprzewodnością cieplną te 2 tak i to chyba tez",
+				"correct": true
+			},
+			{
+				"tresc": "d) wpływa na podwyższenie walorów smakowo-zapachowych masła i jego trwałość",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 17,
+		"tresc": "Kazeina jest białkiem:",
+		"odpowiedzi": [
+			{ "tresc": "a) globularnym", "correct": false },
+			{ "tresc": "b) odpornym na denaturację do 100℃", "correct": true },
+			{ "tresc": "c) wrażliwym na wapń", "correct": false },
+			{ "tresc": "d) prostym", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 18,
+		"tresc": "Wśród białek serwatkowych najwięcej jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) a-laktoalbuminy", "correct": false },
+			{ "tresc": "b) β-laktoglobuliny", "correct": true },
+			{ "tresc": "c) albuminy serum", "correct": false },
+			{ "tresc": "d) immunoglobulin", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 19,
+		"tresc": "W mleku mastitowym obserwuje się:",
+		"odpowiedzi": [
+			{ "tresc": "podwyższoną aktywność plazminy", "correct": true },
+			{
+				"tresc": "zwiększone stężenie jonów wapnia ← spadek",
+				"correct": false
+			},
+			{ "tresc": "trudności w odwirowaniu tłuszczu z mleka", "correct": true },
+			{ "tresc": "zwiększoną lipolizę", "correct": true }
+		]
+	},
+
+	{
+		"rok": 2022,
+		"nr": 20,
+		"tresc": "Przy produkcji twarogów metodą kwasową parametry pasteryzacji są następujące:",
+		"odpowiedzi": [
+			{ "tresc": "a) 65℃, 20min", "correct": false },
+			{ "tresc": "b) 85℃, 10s", "correct": true },
+			{ "tresc": "c) 74℃, 10s", "correct": false },
+			{ "tresc": "d) 95℃, 2-3s", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 21,
+		"tresc": "W trakcie ogrzewania mleka laktoza:",
+		"odpowiedzi": [
+			{ "tresc": "a) ulega częściowo redukcji (albo to)", "correct": false },
+			{
+				"tresc": "b) wchodzi w interakcję z tłuszczem (interakcji z białkami chyba, tak)",
+				"correct": false
+			},
+			{ "tresc": "c) ulega mutarotacji", "correct": false },
+			{ "tresc": "d) utlenia się albo to", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 22,
+		"tresc": "Dojrzewanie fizyczne śmietanki w okresie letnim w systemie alnarpskim zakłada następującą\nsekwencję temperatur:",
+		"odpowiedzi": [
+			{ "tresc": "a) 8℃, 2h/ 19℃, 3h / 16℃, 14-20h zimowy", "correct": false },
+			{ "tresc": "b) 8℃, 2h/ 19℃, 3h / 16℃, 10h", "correct": false },
+			{ "tresc": "c) 16℃, 6h/ 10℃, 12h/ 10℃, 3h", "correct": false },
+			{ "tresc": "d) 19℃, 2h /16℃, 3h/ 8℃, 14-20h", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 23,
+		"tresc": "Sucha i krucha konsystencja twarogu jest wynikiem:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) intensywnego wychłodzenia podczas prasowania",
+				"correct": false
+			},
+			{
+				"tresc": "b) zbyt wysokiej temperatury podczas ukwaszenia",
+				"correct": true
+			},
+			{
+				"tresc": "c) nadmiernego wychłodzenia podczas ociekania",
+				"correct": false
+			},
+			{
+				"tresc": "d) zbyt niskiej temperatury ukwaszenia\n(krucha od mleczanu wapnia)",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 24,
+		"tresc": "Ciśnienie osmotyczne mleka jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) zależne od sposobu żywienia", "correct": false },
+			{ "tresc": "b) niższe niż ciśnienie osmotyczne krwi", "correct": false },
+			{
+				"tresc": "c) utrzymywane na stałym poziomie przez laktozę i chlorki",
+				"correct": true
+			},
+			{ "tresc": "d) wyższe niż przy mastitis", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 25,
+		"tresc": "Podczas obróbki gęstwy serowej przy produkcji serów podpuszczkowych dojrzewających ziarno\nmoże być osuszone w następujący sposób:",
+		"odpowiedzi": [
+			{
+				"tresc": "szybkie zakwaszanie kwasem cytrynowym (nie kojarzy mi sie zebym to widziała)",
+				"correct": true
+			},
+			{
+				"tresc": "samosprasowanie pod lustrem serwatki (te 3 były w wykładach) <3",
+				"correct": true
+			},
+			{ "tresc": "rozcieńczenie wodą technologiczną", "correct": true },
+			{ "tresc": "poprzez mieszanie", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 26,
+		"tresc": "W tłuszczu mlecznym najwięcej jest wśród kwasów nasyconych i nienasyconych odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "a) kwasu palmitynowego i oleinowego", "correct": true },
+			{ "tresc": "b) kwasu stearynowego i oleinowego", "correct": false },
+			{ "tresc": "c) kwasu masłowego i linolowego", "correct": false },
+			{ "tresc": "d) kwasu mirystynowego i linolowego", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 27,
+		"tresc": "Najskuteczniejszym elementem systemu antymikrobiologicznego mleka krowiego jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) laktoperoksydaza", "correct": true },
+			{ "tresc": "b) granulocyty", "correct": false },
+			{ "tresc": "c) lizozym", "correct": false },
+			{ "tresc": "d) laktoferyna", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 28,
+		"tresc": "Późne wzdęcia serów powoduje:",
+		"odpowiedzi": [
+			{ "tresc": "a) Leuconostoc cremoris", "correct": false },
+			{ "tresc": "b) Escherichia coli ← wczesne wzdęcia", "correct": false },
+			{ "tresc": "c) Clostridium butyricum też Bacillus", "correct": true },
+			{ "tresc": "d) bakterie propionowe", "correct": false }
+		]
+	},
+
+	{
+		"rok": 2022,
+		"nr": 29,
+		"tresc": "Zawartość białka w proszku mlecznym pełnym wynosi odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "a) 35%", "correct": false },
+			{ "tresc": "b) 40-45%", "correct": false },
+			{ "tresc": "c) 25%", "correct": true },
+			{ "tresc": "d) 15%", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 30,
+		"tresc": "Poprawa rozpuszczalności proszku mlecznego osiągana jest w wyniku stosowania:",
+		"odpowiedzi": [
+			{ "tresc": "lecytynizacji", "correct": true },
+			{ "tresc": "odwirowania części tłuszczu", "correct": false },
+			{ "tresc": "hartowania mleka", "correct": false },
+			{ "tresc": "instantynizacji", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 31,
+		"tresc": "Ogólna liczba drobnoustrojów i zawartość kom. somatycznych w mleku dopuszczonym do skupu\npowinna wynosić odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "a) <100tyś/ml i <400tyś./ml", "correct": true },
+			{ "tresc": "b) <400tyś/ml i <400tyś./ml", "correct": false },
+			{ "tresc": "c) <500tyś/ml i <500tyś./ml", "correct": false },
+			{ "tresc": "d) <100tyś./ml i <600tyś./ml", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 32,
+		"tresc": "Podwyższenie kwasowości w czasie ogrzewania mleka następuje w wyniku:",
+		"odpowiedzi": [
+			{ "tresc": "a) hydrolizy kazeiny i rozkładu laktozy", "correct": false },
+			{ "tresc": "b) uwolnienia kwasów tłuszczowych", "correct": false },
+			{
+				"tresc": "c) fermentacji laktozy do kwasu mlekowego",
+				"correct": false
+			},
+			{
+				"tresc": "d) wytrącenia Ca3(PO4)2 i rozkładu laktozy",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 33,
+		"tresc": "W procesie pasteryzacji bezwzględnie niszczone są:",
+		"odpowiedzi": [
+			{ "tresc": "a) bakterie patogenne we wszystkich", "correct": true },
+			{
+				"tresc": "b) bakterie fermentacji mlekowej niska krótka?",
+				"correct": false
+			},
+			{
+				"tresc": "c) przetrwalniki bakterii fermentacji masłowej wysoka",
+				"correct": false
+			},
+			{ "tresc": "d) przetrwalniki bakterii Bacillus wysoka", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 34,
+		"tresc": "W skład szczepionki do ukwaszania śmietanki wchodzą bakterie:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) Lactobacillus acidophilus + Bifidobacterium bifidus + Leu. cremoris",
+				"correct": false
+			},
+			{
+				"tresc": "b) Lc. lactis + Lc. cremoris, Lc. diacetilactis, Leuconostoc cremoris",
+				"correct": true
+			},
+			{
+				"tresc": "c) Lactococcus lactis + Lactobacillus acidophilus",
+				"correct": false
+			},
+			{
+				"tresc": "d) Lactobacillus bulgaricus + Lactococcus lactis + Lc. Cremoris",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 35,
+		"tresc": "W produkcji serów szwajcarskich stosuje się:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) bakterie Brevibacterium lineus ← miękkie",
+				"correct": false
+			},
+			{ "tresc": "b) drożdże Saccharomyces cerevisiae", "correct": false },
+			{ "tresc": "c) grzyby z rodzaju Penicillium", "correct": false },
+			{
+				"tresc": "d) bakterie Propionibacterium shermani to prawie jak sheeran",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 36,
+		"tresc": "Enzymem hydrolizującym laktozę do monocukrów jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) a-glukozydaza", "correct": false },
+			{ "tresc": "b) inwertaza", "correct": false },
+			{ "tresc": "c) β-glukozydaza", "correct": false },
+			{ "tresc": "d) β –galaktozydaza laktaza", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 37,
+		"tresc": "Mleko, które jest odtwarzane z proszku mlecznego chudego i tłuszczu nie mlecznego (obcego) to:",
+		"odpowiedzi": [
+			{ "tresc": "a) regenerowane", "correct": false },
+			{ "tresc": "b) rekombinowane", "correct": false },
+			{
+				"tresc": "c) wypełnione",
+				"correct": true
+			},
+			{ "tresc": "d) tonowane", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 38,
+		"tresc": "Czynniki wpływające na proces zmaślania to:",
+		"odpowiedzi": [
+			{ "tresc": "temperatura", "correct": true },
+			{ "tresc": "prędkość obrotowa maselnicy", "correct": true },
+			{ "tresc": "wypełnienie maselnicy", "correct": true },
+			{ "tresc": "dojrzałość fizyczna śmietany", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 39,
+		"tresc": "pH solanki wykorzystywanej do solenia serów twardych powinno wynosić:",
+		"odpowiedzi": [
+			{ "tresc": "a) 5,4-5,6", "correct": false },
+			{ "tresc": "b) 4,6-4,8", "correct": false },
+			{ "tresc": "c) 4,8-5,0 miękkie", "correct": false },
+			{ "tresc": "d) 5,2-5,4", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 40,
+		"tresc": "Frakcją stabilizującą micele kazeinowe w mleku jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) as2-kazeina", "correct": false },
+			{ "tresc": "b) β-kazeina", "correct": false },
+			{ "tresc": "c) 𝑘−kazeina", "correct": true },
+			{ "tresc": "d) as1-kazeina", "correct": false }
+		]
+	},
+
+	{
+		"rok": 2022,
+		"nr": 41,
+		"tresc": "Glikomakropeptyd odszczepiany od k-kazeiny w pierwszym etapie koagulacji enzymatycznej:",
+		"odpowiedzi": [
+			{ "tresc": "zawiera reszty cukrowe", "correct": true },
+			{ "tresc": "kompleksuje jony wapniowe", "correct": true },
+			{ "tresc": "stanowi 30% ogólnej masy kazeiny", "correct": true },
+			{ "tresc": "przechodzi do skrzepu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 42,
+		"tresc": "Parametry etapu fermentacji prowadzonej przy produkcji kefiru wynoszą odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "a) 18-20℃, 12h", "correct": false },
+			{ "tresc": "b) 14-16℃, 5-6h", "correct": false },
+			{ "tresc": "c) 42-43℃, 5-6h", "correct": false },
+			{ "tresc": "d) 22-23℃, 20h", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 43,
+		"tresc": "Koagulację enzymatyczną kazeiny rozpoczyna podpuszczka przecinając wiązanie:",
+		"odpowiedzi": [
+			{ "tresc": "a) Phe105-Met106 w k-kazeinie", "correct": true },
+			{ "tresc": "b) Met105-Phe106 as1- kazeinie", "correct": false },
+			{ "tresc": "a) Met105-Phe106 w k- kazeinie", "correct": false },
+			{ "tresc": "b) Phe105-Met106 as1- kazeinie", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 44,
+		"tresc": "Koagulacją nieodwracalną kazeiny jest:",
+		"odpowiedzi": [
+			{ "tresc": "a) koagulacja kwasowa", "correct": false },
+			{
+				"tresc": "b) koagulacja przez wysalanie chlorkiem sodu",
+				"correct": false
+			},
+			{
+				"tresc": "c) koagulacja przez wysalanie siarczanem amonu",
+				"correct": false
+			},
+			{ "tresc": "d) koagulacja enzymatyczna", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 45,
+		"tresc": "W jogurcie i maśle występują głównie metabolity LAB:",
+		"odpowiedzi": [
+			{ "tresc": "a) aldehyd octowy i diacetyl", "correct": true },
+			{
+				"tresc": "b) aldehyd propionowy i indol ← od obory zły związek",
+				"correct": false
+			},
+			{ "tresc": "c) aldehyd mrówkowy i treonina", "correct": false },
+			{ "tresc": "d) etanol i aldehyd octowy", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 46,
+		"tresc": "Jedną jednostkę tłuszczową stanowi:",
+		"odpowiedzi": [
+			{ "tresc": "a) 10g tłuszczu", "correct": true },
+			{ "tresc": "b) 1% tłuszczu", "correct": false },
+			{ "tresc": "c) 1g tłuszczu", "correct": false },
+			{ "tresc": "d) 10% tłuszczu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 47,
+		"tresc": "Średnia zawartość białka i tłuszczu w mleku krowim wynosi odpowiednio:",
+		"odpowiedzi": [
+			{ "tresc": "a) 4,4% i 3,5%", "correct": false },
+			{ "tresc": "b) 3,5% i 3,4%", "correct": true },
+			{ "tresc": "c) 8,5% i 12,5%", "correct": false },
+			{ "tresc": "d) 2,5% i 1,5%", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 48,
+		"tresc": "Skład kultury jogurtowej jest następujący:",
+		"odpowiedzi": [
+			{ "tresc": "a) Lc. diacetilactis i Str. thermophilus", "correct": false },
+			{
+				"tresc": "b) Lactobacillus bulgaricus i Streptococcus thermophilus",
+				"correct": true
+			},
+			{
+				"tresc": "c) Lactobacillus casei i Leuconostoc cremoris",
+				"correct": false
+			},
+			{
+				"tresc": "d) Lactococcus lactis, Lc. cremoris, Lc. Diacetilactis",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 49,
+		"tresc": "Wysoki poziom bakterii psychrotrofowych w mleku surowym może być przyczyną:",
+		"odpowiedzi": [
+			{
+				"tresc": "a) podwyższenia poziomu zawartości białek",
+				"correct": false
+			},
+			{ "tresc": "b) obecność enterotoksyn bakteryjnych", "correct": false },
+			{ "tresc": "c) żelowania mleka UHT", "correct": true },
+			{
+				"tresc": "d) zmiana krzepliwości mleka pod wpływem podpuszczki",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 50,
+		"tresc": "Proces krojenia skrzepu parakazeinowego przy produkcji serów twardych\nrozpoczyna się gdy jest on:",
+		"odpowiedzi": [
+			{ "tresc": "a) nie ma to znaczenia", "correct": false },
+			{ "tresc": "b) mocno zwięzły ← miękkie", "correct": false },
+			{ "tresc": "c) luźny", "correct": false },
+			{ "tresc": "d) średnio zwięzły i małod", "correct": true }
+		]
+	}
+]
