@@ -16,7 +16,7 @@
 		"tresc": "Zagęszczenie mleka w wyparkach wielodziałowych prowadzone jest w zakresie\ntemperatur i ciśnień:",
 		"odpowiedzi": [
 			{ "tresc": "85-45*C; 0,5-0,1 atm", "correct": false },
-			{ "tresc": "70-45*C; 0,32-0,1 atm ← sprawdzone", "correct": true },
+			{ "tresc": "70-45*C; 0,32-0,1 atm", "correct": true },
 			{ "tresc": "100,17-70*C; 1-0,32 atm", "correct": false },
 			{ "tresc": "85-70*C; 0,5-0,3 atm", "correct": false }
 		]
@@ -242,7 +242,7 @@
 		"tresc": "Uzdolnienia aromatotwórcze mezofilnych szczepionek mleczarskich wynikają\nz: homofermentacji laktozy",
 		"odpowiedzi": [
 			{
-				"tresc": "utylizacji cytrynianów z nich tworzony jest główny aromat produktów maślarskich →diacetyl",
+				"tresc": "utylizacji cytrynianów",
 				"correct": true
 			},
 			{
@@ -262,7 +262,7 @@
 			{ "tresc": "12-20 –krotny", "correct": false },
 			{ "tresc": "4-8 –krotny", "correct": false },
 			{
-				"tresc": "8-11 –krotny nie ma nic wspólnego z logiką xd, tak o (stawiałabym na to, że mówił, że gdy\nmamy mleko z jakąś trującą subst, to po wysuszeniu jest jej 10x)",
+				"tresc": "8-11 –krotny",
 				"correct": true
 			}
 		]
@@ -287,7 +287,7 @@
 			{ "tresc": "6 i 12%", "correct": false },
 			{ "tresc": "12 i 6%", "correct": false },
 			{
-				"tresc": "9 i 6% wiadomo w maślance więcej, ale stosunek mniejszy",
+				"tresc": "9 i 6%",
 				"correct": true
 			}
 		]
@@ -344,7 +344,7 @@
 				"correct": false
 			},
 			{
-				"tresc": "plazmina i kwaśna fosfataza bo kwaśna fosfataza nie do zajebania",
+				"tresc": "plazmina i kwaśna fosfataza",
 				"correct": true
 			},
 			{ "tresc": "plazmina i zasadowa fosfataza", "correct": false },
@@ -357,7 +357,7 @@
 		"tresc": "Enzymem hydrolizującym laktozę do monocukrów jest:",
 		"odpowiedzi": [
 			{
-				"tresc": "BETA-galaktozydaza bo z galaktozy i glukozy",
+				"tresc": "BETA-galaktozydaza",
 				"correct": true
 			},
 			{ "tresc": "BETA-glukozydaza", "correct": false },
@@ -453,7 +453,7 @@
 		"tresc": "Największa synereza ma miejsce przy obróbce skrzepu w technologii produkcji\nserów:",
 		"odpowiedzi": [
 			{
-				"tresc": "serów twardych szwajcarskich no bo twardy, więcej cieczy usuwa się",
+				"tresc": "serów twardych szwajcarskich",
 				"correct": true
 			},
 			{ "tresc": "serów pleśniowych", "correct": false },
@@ -490,7 +490,7 @@
 				"correct": false
 			},
 			{
-				"tresc": "kierowaniu mleka pasteryzowanego do sekcji wymiany w celu ogrzania mleka\nwchodzącego do pasteryzatora oszczędzać trzeba! xd",
+				"tresc": "kierowaniu mleka pasteryzowanego do sekcji wymiany w celu ogrzania mleka\nwchodzącego do pasteryzatora",
 				"correct": true
 			}
 		]
@@ -501,7 +501,7 @@
 		"tresc": "Dojrzewanie fizyczne śmietanki ma na celu:",
 		"odpowiedzi": [
 			{
-				"tresc": "krystalizacja części tłuszczu w kułeczkach kolos 2 wiadomix",
+				"tresc": "krystalizacja części tłuszczu w kułeczkach",
 				"correct": true
 			},
 			{
@@ -520,7 +520,7 @@
 		"nr": 37,
 		"tresc": "Najbardziej podatna na działanie chymozyny jest:",
 		"odpowiedzi": [
-			{ "tresc": "KAPPA-kazeina no bo jest na zewnątrz", "correct": true },
+			{ "tresc": "KAPPA-kazeina", "correct": true },
 			{ "tresc": "białka serwatkowe", "correct": false },
 			{ "tresc": "ALFAsi-kazeina", "correct": false },
 			{ "tresc": "BETA-kazeina", "correct": false }
@@ -807,7 +807,7 @@
 			},
 			{ "tresc": "b) nie jest stosowana", "correct": false },
 			{
-				"tresc": "c) jest wymuszona wysoką zawartością tłuszczu w śmietance i związaną z tym niższą\nprzewodnością cieplną te 2 tak i to chyba tez",
+				"tresc": "c) jest wymuszona wysoką zawartością tłuszczu w śmietance i związaną z tym niższą\nprzewodnością cieplną",
 				"correct": true
 			},
 			{

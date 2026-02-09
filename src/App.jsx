@@ -1,8 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import pytania from "./data/pytania.json";
+import { SITE_PIN } from "./config.js";
 
-const SITE_PIN_KEY = "site_pin_ok";
-const requiredPin = import.meta.env.SITE_PIN ?? "";
+const requiredPin = String(SITE_PIN ?? "").trim();
 
 function getCorrectCount(question) {
 	return question.odpowiedzi.filter((o) => o.correct).length;
@@ -41,9 +41,6 @@ function PinGate({ onUnlock }) {
 			setPin("");
 			return;
 		}
-		try {
-			sessionStorage.setItem(SITE_PIN_KEY, "1");
-		} catch (_) {}
 		onUnlock();
 	};
 
@@ -90,24 +87,14 @@ function PinGate({ onUnlock }) {
 }
 
 function App() {
-	const [unlocked, setUnlocked] = useState(() => {
-		if (!requiredPin) return true;
-		try {
-			return sessionStorage.getItem(SITE_PIN_KEY) === "1";
-		} catch {
-			return false;
-		}
-	});
+	const [unlocked, setUnlocked] = useState(false);
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [selectedIndices, setSelectedIndices] = useState([]);
 	const [resultShownForIndex, setResultShownForIndex] = useState(null);
 	const [answers, setAnswers] = useState({});
 
-	useEffect(() => {
-		if (!requiredPin) setUnlocked(true);
-	}, []);
-
-	if (!unlocked) {
+	const pinRequired = requiredPin.length > 0;
+	if (pinRequired && !unlocked) {
 		return <PinGate onUnlock={() => setUnlocked(true)} />;
 	}
 
