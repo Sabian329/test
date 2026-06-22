@@ -423,8 +423,8 @@
 				"correct": true
 			},
 			{
-				"tresc": "Ocena jakości surowca, peklowanie, masowanie, napełnianie osłonek, wędzenie, pieczenie, parzenie, studzenie, chłodzenie",
-				"correct": true
+				"tresc": "Ocena jakości surowca, peklowanie, masowanie, napełnianie osłonek, pieczenie, parzenie, studzenie, chłodzenie",
+				"correct": false
 			},
 			{
 				"tresc": "Ocena jakości surowca, peklowanie, formowanie, wędzenie, piecze masowanie, studzenie, chłodzenie",
