@@ -2,273 +2,501 @@
 	{
 		"rok": null,
 		"nr": 1,
-		"tresc": "Najwyższą szybkość reakcji utlenienia lipidów, stwarzającą zagrożenie zdrowotne stwierdza się w produktach, gdzie wartość aktywności wody zawiera się w przedziale:",
+		"tresc": "Oznaczanie kwasowości tłuszczu:",
 		"odpowiedzi": [
-			{ "tresc": "0,2-0,3", "correct": false },
-			{ "tresc": "0,6-1,0", "correct": true },
-			{ "tresc": "0-0,2", "correct": false },
-			{ "tresc": "0,2-0,4", "correct": false }
+			{
+				"tresc": "Polega na rozpuszczeniu tłuszczu w alkoholowym roztworze i miareczkowaniu KOH do bladoróżowego zabarwienia",
+				"correct": true
+			},
+			{
+				"tresc": "Polega na rozpuszczeniu tłuszczu w alkoholowym roztworze i miareczkowaniu roztworem tiosiarczanu sodu do odbarwienia roztworu",
+				"correct": false
+			},
+			{
+				"tresc": "Pozwala na określenie stopnia hydrolizy tłuszczu poprzez zawartość wolnych kwasów tłuszczowych",
+				"correct": true
+			},
+			{
+				"tresc": "W metodzie jako wskaźnik stosuje się 2% roztwór skrobi",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 2,
-		"tresc": "Etap procesu produkcyjnego, który prowadzony jest tylko po to, aby skutecznie eliminować dane zagrożenie zdrowotne jest:",
+		"tresc": "Do jakiego momentu prowadzi się miareczkowanie w metodzie oznaczania liczby nadtlenkowej?",
 		"odpowiedzi": [
 			{
-				"tresc": "CCP, ale tylko wówczas gdy nie ma kolejnego etapu redukującego to zagrożenie",
+				"tresc": "Do zabarwienia roztworu na kolor brunatny",
 				"correct": false
 			},
-			{ "tresc": "zawsze CP", "correct": false },
-			{ "tresc": "nie jest CP ani CCP", "correct": false },
-			{ "tresc": "zawsze CCP", "correct": true }
+			{
+				"tresc": "Do czasu powstania osadu",
+				"correct": false
+			},
+			{
+				"tresc": "Do czasu powstania bladoróżowego zabarwienia roztworu",
+				"correct": false
+			},
+			{
+				"tresc": "Do odbarwienia roztworu",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
-		"nr": 3,
-		"tresc": "Norma ISO 22000 jest przeznaczona dla:",
+		"nr": "3a",
+		"tresc": "Przyżyciowa wartość pH mięsa wieprzowego wynosi:",
 		"odpowiedzi": [
-			{ "tresc": "dystrybutorów żywności", "correct": true },
-			{ "tresc": "producentów opakowań żywności", "correct": true },
-			{ "tresc": "producentów żywności", "correct": true },
-			{ "tresc": "konsumentów żywności", "correct": false }
+			{
+				"tresc": "5,4–5,5",
+				"correct": false
+			},
+			{
+				"tresc": "6,0–6,4",
+				"correct": false
+			},
+			{
+				"tresc": "6,8–7,2",
+				"correct": true
+			},
+			{
+				"tresc": "7,4–7,8",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": "3b",
+		"tresc": "Wartość pH mięsa wieprzowego 45 minut po uboju wynosi:",
+		"odpowiedzi": [
+			{
+				"tresc": "5,0–5,3",
+				"correct": false
+			},
+			{
+				"tresc": "6,3",
+				"correct": true
+			},
+			{
+				"tresc": "6,8–7,2",
+				"correct": false
+			},
+			{
+				"tresc": "5,4–5,5",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": "3c",
+		"tresc": "Wartość pH mięsa świeżego 24 godziny po uboju wynosi:",
+		"odpowiedzi": [
+			{
+				"tresc": "6,3",
+				"correct": false
+			},
+			{
+				"tresc": "6,8–7,2",
+				"correct": false
+			},
+			{
+				"tresc": "5,4–5,5",
+				"correct": true
+			},
+			{
+				"tresc": "4,8–5,0",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 4,
-		"tresc": "Obszary działań IFS:",
+		"tresc": "Efektem glikolizy poubojowej jest:",
 		"odpowiedzi": [
-			{ "tresc": "zarządzanie systemem jakości", "correct": true },
-			{ "tresc": "HACCP", "correct": true },
-			{ "tresc": "zarządzanie zasobami", "correct": true },
-			{ "tresc": "odpowiedzialność kierownictwa", "correct": true }
+			{
+				"tresc": "Proteoliza białek mięśniowych i poprawa właściwości funkcjonalnych mięsa",
+				"correct": false
+			},
+			{
+				"tresc": "Obniżenie pH tkanki mięśniowej w wyniku wytwarzania się kwasu mlekowego",
+				"correct": true
+			},
+			{
+				"tresc": "Podwyższenie pH tkanki mięśniowej",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 5,
-		"tresc": "Podczas projektowania systemu HACCP zespół powinien wyznaczyć działania pozwalające na osiągnięcie:",
+		"tresc": "Im większa wartość absorbancji, czyli ekstynkcji próby w metodzie TBA tym:",
 		"odpowiedzi": [
-			{ "tresc": "optymalnej jakości sensorycznej", "correct": false },
-			{ "tresc": "najwyższej jakości zdrowotnej", "correct": false },
-			{ "tresc": "gwarantowanej jakości zdrowotnej", "correct": true },
-			{ "tresc": "optymalnej jakości zdrowotnej", "correct": false }
+			{
+				"tresc": "Mniejsza zawartość aldehydu malonowego w próbie",
+				"correct": false
+			},
+			{
+				"tresc": "Większy stopień zjełczenia tłuszczu wykorzystanego w analizie",
+				"correct": true
+			},
+			{
+				"tresc": "Mniejszy stopień zjełczenia tłuszczu wykorzystanego w analizie",
+				"correct": false
+			},
+			{
+				"tresc": "Większa zawartość aldehydu malonowego w próbie",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 6,
-		"tresc": "Arkusze analizy zagrożeń i monitorowania CCP są integralnymi elementami:",
+		"tresc": "Co to jest masowanie?",
 		"odpowiedzi": [
-			{ "tresc": "zakładowego kodeksu GMP/GHP", "correct": false },
 			{
-				"tresc": "procedury systemowej - działania korygujące i zapobiegawcze",
-				"correct": false
+				"tresc": "Powoduje częściowe uszkodzenie błony, czyli sarkolemmy, komórek mięśniowych",
+				"correct": true
 			},
 			{
-				"tresc": "instrukcji monitorowania i działań korygujących dla wybranego CCP",
-				"correct": false
+				"tresc": "Operacja ułatwiająca wnikanie solanki do mięsa oraz równomierne jej rozmieszczenie",
+				"correct": true
 			},
-			{ "tresc": "księgi HACCP", "correct": true }
+			{
+				"tresc": "Uplastycznienie nastrzykniętego solanką mięsa przeznaczonego do produkcji przetworów całomięśniowych",
+				"correct": true
+			},
+			{
+				"tresc": "Proces, w wyniku którego następuje rozluźnienie struktury histologicznej",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 7,
-		"tresc": "Głównymi dokumentami HACCP których funkcjonowanie wynika z zasad systemu są:",
+		"tresc": "Jakie metody utrwalania mięsa są fizyczne?",
 		"odpowiedzi": [
-			{ "tresc": "księga procedur systemowych", "correct": true },
-			{ "tresc": "księga mycia i dezynfekcji", "correct": true },
-			{ "tresc": "księga specyfikacji atestów", "correct": true },
-			{ "tresc": "księga HACCP", "correct": true }
+			{
+				"tresc": "Promieniowanie jonizujące, pulsacyjne pola elektryczne",
+				"correct": true
+			},
+			{
+				"tresc": "Tyndalizacja, pasteryzacja, suszenie",
+				"correct": true
+			},
+			{
+				"tresc": "Solenie, wędzenie, peklowanie",
+				"correct": false
+			},
+			{
+				"tresc": "Chłodzenie, zamrażanie, gotowanie",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 8,
-		"tresc": "Jedną z zasad systemu HACCP nie jest:",
+		"tresc": "Jakie czynności ubojowe mają szczególny wpływ na jakość mięsa?",
 		"odpowiedzi": [
-			{ "tresc": "identyfikacja CCP", "correct": false },
-			{ "tresc": "ustalenie procedur weryfikacyjnych", "correct": false },
 			{
-				"tresc": "ustalenie kryteriów tolerancji dla każdego CCP",
+				"tresc": "Wykrwawianie",
+				"correct": true
+			},
+			{
+				"tresc": "Wytrzewianie",
 				"correct": false
 			},
-			{ "tresc": "identyfikacja wymagań klienta", "correct": true }
+			{
+				"tresc": "Wychładzanie",
+				"correct": false
+			},
+			{
+				"tresc": "Oszałamianie",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 9,
-		"tresc": "Temperatury, przy których nie rozwijają się pałeczki z rodzaju Salmonella to:",
+		"tresc": "Co jest niejadalnym ubocznym artykułem poubojowym?",
 		"odpowiedzi": [
-			{ "tresc": "<3,5 i >37", "correct": false },
-			{ "tresc": "<6,5 i >47", "correct": true },
-			{ "tresc": "<2,5 i >30", "correct": false },
-			{ "tresc": "<4,5 i >58", "correct": false }
+			{
+				"tresc": "Jelita",
+				"correct": false
+			},
+			{
+				"tresc": "Gruczoły",
+				"correct": true
+			},
+			{
+				"tresc": "Kości",
+				"correct": true
+			},
+			{
+				"tresc": "Krew",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 10,
-		"tresc": "Podstawowe elementy modelu TQM:",
+		"tresc": "Na jakie parametry wpływa zawartość tłuszczu śródmięśniowego?",
 		"odpowiedzi": [
-			{ "tresc": "narzędzia", "correct": true },
-			{ "tresc": "zespoły", "correct": true },
-			{ "tresc": "systemy", "correct": true },
-			{ "tresc": "technologie", "correct": false }
+			{
+				"tresc": "Smak",
+				"correct": true
+			},
+			{
+				"tresc": "Zapach",
+				"correct": false
+			},
+			{
+				"tresc": "Kruchość",
+				"correct": true
+			},
+			{
+				"tresc": "Siła cięcia",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 11,
-		"tresc": "Głównymi dokumentami wykonawczymi w systemie HACCP są:",
+		"tresc": "Czy klasa E budowy uformowania tuszy jest:",
 		"odpowiedzi": [
-			{ "tresc": "odpowiednie instrukcje", "correct": false },
-			{ "tresc": "księga HACCP", "correct": false },
-			{ "tresc": "procedury systemowe", "correct": true },
-			{ "tresc": "zakładowy kodeks GMP/GHP", "correct": false }
+			{
+				"tresc": "Doskonała",
+				"correct": true
+			},
+			{
+				"tresc": "Bardzo dobra o zaokrąglonym udźcu",
+				"correct": false
+			},
+			{
+				"tresc": "O zaokrąglonym udźcu i łopatce oraz szerokim grzbiecie",
+				"correct": false
+			},
+			{
+				"tresc": "O bardzo mocno zaokrąglonym udźcu i łopatce oraz bardzo szerokim grzbiecie",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 12,
-		"tresc": "IFS i BRC to:",
+		"tresc": "Jaki skład ma peklosól?",
 		"odpowiedzi": [
-			{ "tresc": "prywatne standardy", "correct": true },
-			{ "tresc": "certyfikacja produktu", "correct": false },
-			{ "tresc": "certyfikacja systemu", "correct": false },
-			{ "tresc": "wymagania klienta", "correct": false }
+			{
+				"tresc": "NaCl 99,6% + NaNO2 0,4–0,5%",
+				"correct": true
+			},
+			{
+				"tresc": "NaCl 99,4% + NaNO3 0,5–0,6%",
+				"correct": false
+			},
+			{
+				"tresc": "NaCl 99,4% + NaNO2 0,5–0,6%",
+				"correct": true
+			},
+			{
+				"tresc": "NaCl 99,6% + NaNO3 0,4–0,5%",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 13,
-		"tresc": "Głównym determinantem ryzyka mikrobiologicznego jakie należy uwzględnić podczas wykonywania analizy zagrożeń jest:",
+		"tresc": "Wada DFD odznacza się tym, że mięso jest:",
 		"odpowiedzi": [
-			{ "tresc": "okres przydatności do spożycia produktu", "correct": false },
-			{ "tresc": "liczba mikroorganizmów", "correct": true },
 			{
-				"tresc": "ilość toksyn wytwarzanych przez drobnoustroje",
+				"tresc": "Ciemne, twarde, mokre",
+				"correct": false
+			},
+			{
+				"tresc": "Blade, twarde, mokre",
+				"correct": false
+			},
+			{
+				"tresc": "Ciemne, twarde, suche",
 				"correct": true
 			},
-			{ "tresc": "rodzaj mikroorganizmów", "correct": true }
+			{
+				"tresc": "Blade, twarde, suche",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 14,
-		"tresc": "Według wytycznych prawa żywnościowego normy są:",
+		"tresc": "Kiedy ma miejsce kruszenie mięsa?",
 		"odpowiedzi": [
 			{
-				"tresc": "obowiązujące w zakresie produkcji suplementów diety",
+				"tresc": "Podczas zakwaszania mięsa",
+				"correct": true
+			},
+			{
+				"tresc": "Podczas rigor mortis",
 				"correct": false
 			},
-			{ "tresc": "obowiązujące", "correct": false },
-			{ "tresc": "nieobowiązujące", "correct": true },
 			{
-				"tresc": "obowiązujące zakresie produkcji żywności specjalnego żywieniowego przeznaczenia",
+				"tresc": "Podczas rozkładu związków wysokoenergetycznych",
 				"correct": false
+			},
+			{
+				"tresc": "Podczas przemian białek mięsa",
+				"correct": true
 			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 15,
-		"tresc": "Podstawą certyfikacji systemu HACCP jest:",
+		"tresc": "Ile badań weterynaryjnych odbywa się podczas uboju i obróbki poubojowej zwierząt rzeźnych?",
 		"odpowiedzi": [
 			{
-				"tresc": "wykazanie stopnia usatysfakcjonowania i zadowolenia klientów",
+				"tresc": "IV",
 				"correct": false
 			},
 			{
-				"tresc": "przeprowadzenie auditu zgodności z dokumentacją",
+				"tresc": "I",
+				"correct": false
+			},
+			{
+				"tresc": "II",
 				"correct": true
 			},
 			{
-				"tresc": "przeprowadzenie auditu zgodności z zasadami",
-				"correct": true
-			},
-			{
-				"tresc": "szczegółowe przebadanie wyrobu przez niezależną jednostkę",
-				"correct": true
+				"tresc": "III",
+				"correct": false
 			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 16,
-		"tresc": "Patogenami zdolnymi do wzrostu w temperaturach chłodniczych są:",
+		"tresc": "Woda związana w mięsie:",
 		"odpowiedzi": [
-			{ "tresc": "Camylobacter jejuni", "correct": false },
-			{ "tresc": "Clostridium botulinum", "correct": false },
-			{ "tresc": "Staphylococcus aureus", "correct": false },
-			{ "tresc": "Listeria monocytogenes", "correct": true }
+			{
+				"tresc": "Jest rozmieszczona w postaci pozornie wolnych cząsteczek w przestrzeniach larnych wewnątrzkomórkowych i międzykomórkowych mięśnia",
+				"correct": false
+			},
+			{
+				"tresc": "Stanowi 5%",
+				"correct": true
+			},
+			{
+				"tresc": "Jest wiązana głównie przez białka miofibryli i białka tkanki łącznej",
+				"correct": true
+			},
+			{
+				"tresc": "Stanowi 75%",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 17,
-		"tresc": "Skutecznie działający system HACCP pozwala zagwarantować:",
+		"tresc": "Zaznacz prawidłową kolejność procesu produkcji wędzonki parzonej",
 		"odpowiedzi": [
 			{
-				"tresc": "atrakcyjność sensoryczną środków żywnościowych",
+				"tresc": "Ocena jakości surowca, peklowanie, masowanie, wędzenie, pieczenie, napełnianie osłonek, studzenie, chłodzenie",
 				"correct": false
 			},
-			{ "tresc": "dyspozycyjność środków żywnościowych", "correct": false },
-			{ "tresc": "jakość handlową środków żywnościowych", "correct": false },
 			{
-				"tresc": "bezpieczeństwo zdrowotne środków żywnościowych",
+				"tresc": "Ocena jakości surowca, peklowanie, masowanie, formowanie, wędzenie, pieczenie, parzenie, studzenie, chłodzenie",
 				"correct": true
+			},
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, masowanie, napełnianie osłonek, wędzenie, pieczenie, parzenie, studzenie, chłodzenie",
+				"correct": true
+			},
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, formowanie, wędzenie, piecze masowanie, studzenie, chłodzenie",
+				"correct": false
 			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 18,
-		"tresc": "Prawidłowo zaprojektowany arkusz analizy zagrożeń zawiera:",
+		"tresc": "Jakie są pożądane skutki peklowania mięsa?",
 		"odpowiedzi": [
 			{
-				"tresc": "limity krytyczne dla wszystkich zidentyfikowanych zagrożeń",
+				"tresc": "Tworzenie N-nitrozoamin",
 				"correct": false
 			},
-			{ "tresc": "listę wszystkich zagrożeń", "correct": true },
-			{ "tresc": "źródło i przyczynę występowania zagrożeń", "correct": true },
-			{ "tresc": "środki zapobiegawcze", "correct": true }
+			{
+				"tresc": "Hamowanie rozwoju drobnoustrojów",
+				"correct": true
+			},
+			{
+				"tresc": "Przyspieszenie procesów utleniania",
+				"correct": false
+			},
+			{
+				"tresc": "Utworzenie barwy, smaku i zapachu typowego dla mięsa peklowanego",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 19,
-		"tresc": "Norma ISO 17025 dotyczy:",
+		"tresc": "W jaki sposób można wpłynąć na skład chemiczny mięsa?",
 		"odpowiedzi": [
-			{ "tresc": "zarządzania bezpieczeństwem środowiska", "correct": false },
 			{
-				"tresc": "wymagań dotyczących kompetencji do przeprowadzenia badań i wzorcowań metod analitycznych",
-				"correct": false
-			},
-			{
-				"tresc": "zarządzania jakością w laboratoriach badawczych i wzorcujących",
+				"tresc": "Przez dobór odpowiedniego gatunku",
 				"correct": true
 			},
-			{ "tresc": "zarządzania bezpieczeństwem informacji", "correct": false }
+			{
+				"tresc": "Przez odpowiednie żywienie",
+				"correct": true
+			},
+			{
+				"tresc": "Przez właściwe postępowanie z mięsem po uboju",
+				"correct": true
+			},
+			{
+				"tresc": "Przez ubój w określonym wieku",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 20,
-		"tresc": "Elementy, dzięki którym realizowany jest skuteczny nadzór nad dokumentacją systemu HACCP dotyczą:",
+		"tresc": "Filament aktynowy to:",
 		"odpowiedzi": [
-			{ "tresc": "aktualizacji dokumentów", "correct": true },
 			{
-				"tresc": "zasad tworzenia, znakowania i wprowadzania nowych dokumentów",
+				"tresc": "Aktyna G",
 				"correct": true
 			},
-			{ "tresc": "archiwizacji dokumentów", "correct": true },
 			{
-				"tresc": "okresowego przeglądu istniejących dokumentów",
+				"tresc": "Helisa dwuniciowa, której obrót wynosi 37 nm",
+				"correct": true
+			},
+			{
+				"tresc": "Włókienkowa tropomiozyna i globularne troponiny: T, C oraz I",
+				"correct": true
+			},
+			{
+				"tresc": "Struktura spolaryzowana z dwoma końcami: + i -",
 				"correct": true
 			}
 		]
@@ -276,157 +504,344 @@
 	{
 		"rok": null,
 		"nr": 21,
-		"tresc": "Wewnątrzśrodowiskowe czynniki wpływające na zahamowanie wzrostu mikroorganizmów w żywności to:",
+		"tresc": "Jakie czynniki decydują o intensywności skurczu pośmiertnego?",
 		"odpowiedzi": [
-			{ "tresc": "środowisko gazowe i hipobaria", "correct": false },
-			{ "tresc": "aktywność wody", "correct": true },
-			{ "tresc": "wilgotność względna", "correct": false },
-			{ "tresc": "potencjał oksydoredukcyjny", "correct": true }
+			{
+				"tresc": "Temperatura środowiska",
+				"correct": true
+			},
+			{
+				"tresc": "Rodzaj mięśnia",
+				"correct": true
+			},
+			{
+				"tresc": "Wilgotność środowiska",
+				"correct": false
+			},
+			{
+				"tresc": "Otłuszczenie tuszy",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 22,
-		"tresc": "Metodą analizy ryzyka, która uwzględnia częstotliwość występowania zagrożenia jest:",
+		"tresc": "W jakim procesie powstaje tzw. pseudoemulsja kiełbasiana?",
 		"odpowiedzi": [
-			{ "tresc": "drzewko decyzyjne", "correct": false },
 			{
-				"tresc": "analiza zagrożeń prowadzona według procedury Komitetu Doradczego",
+				"tresc": "Kutrowania",
+				"correct": true
+			},
+			{
+				"tresc": "Wędzenia",
 				"correct": false
 			},
-			{ "tresc": "weryfikacja priorytetu zagrożeń", "correct": true },
-			{ "tresc": "analiza Pareto", "correct": false }
+			{
+				"tresc": "Masowania",
+				"correct": false
+			},
+			{
+				"tresc": "Peklowania",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 23,
-		"tresc": "Podstawowe cechy nowoczesnego podejścia do zarządzania organizacją:",
+		"tresc": "Czym jest glazura?",
 		"odpowiedzi": [
 			{
-				"tresc": "ocena jakości i wykrywanie wad należy do odrębnej komórki organizacyjnej",
+				"tresc": "Substancją wypełniającą braki mięsne",
 				"correct": false
 			},
 			{
-				"tresc": "zaangażowanie wszystkich pracowników w kształtowanie i zapewnienie jakości",
+				"tresc": "Rodzajem obróbki termicznej",
+				"correct": false
+			},
+			{
+				"tresc": "Powłoką zabezpieczającą powierzchnię panierowanego produktu",
 				"correct": true
 			},
-			{ "tresc": "dbałość o kontakty z klientami", "correct": true },
-			{ "tresc": "charakter prewencyjny", "correct": false }
+			{
+				"tresc": "Składa się z modyfikowanej skrobi i ksantanu lub innych hydrokoloidów",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 24,
-		"tresc": "Norma ISO 22000 obejmuje:",
+		"tresc": "Jakie gatunki drewna nie są wybierane do wytwarzania dymu wędzarniczego:",
 		"odpowiedzi": [
 			{
-				"tresc": "zarządzanie projakościowe zgodne z zasadami normy 9000",
+				"tresc": "Wiśnia",
 				"correct": false
 			},
-			{ "tresc": "wymagana GMP/GHP", "correct": false },
-			{ "tresc": "wymagania HACCP", "correct": true },
-			{ "tresc": "zarządzanie bezpieczeństwem żywności", "correct": true }
+			{
+				"tresc": "Jałowiec",
+				"correct": false
+			},
+			{
+				"tresc": "Sosna",
+				"correct": true
+			},
+			{
+				"tresc": "Czereśnia",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 25,
-		"tresc": "Najczęstszą przyczyną występowania zatruć pokarmowych powodowanych przez drobnoustroje są bakterie z rodzaju:",
+		"tresc": "Z czego produkuje się smalec wyborowy?",
 		"odpowiedzi": [
-			{ "tresc": "Camphylobacter", "correct": false },
-			{ "tresc": "Clostridium", "correct": false },
-			{ "tresc": "Listeria", "correct": false },
-			{ "tresc": "Salmonella", "correct": true }
+			{
+				"tresc": "Tłuszczu z pachwiny",
+				"correct": true
+			},
+			{
+				"tresc": "Tłuszczu z podgardla",
+				"correct": true
+			},
+			{
+				"tresc": "Słoniny",
+				"correct": true
+			},
+			{
+				"tresc": "Sadła",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 26,
-		"tresc": "Działania przyczyniające się do skutecznego eliminowania pałeczek z rodzaju Salmonella z żywności dotyczą:",
+		"tresc": "Ile jest włókienek kurczliwych w pojedynczym włóknie?",
 		"odpowiedzi": [
 			{
-				"tresc": "kładzenie nacisku na edukowanie konsumentów w celu przestrzegania zasad higieny na poziomie konsumenckim",
-				"correct": true
-			},
-			{
-				"tresc": "stosowania technologii minimalnego przetwarzania",
+				"tresc": "100",
 				"correct": false
 			},
 			{
-				"tresc": "kontroli tych bakterii u zwierząt hodowlanych",
+				"tresc": "10",
+				"correct": false
+			},
+			{
+				"tresc": "1000",
 				"correct": true
 			},
 			{
-				"tresc": "utrzymania właściwego poziomu higieny podczas przetwarzania żywności",
-				"correct": true
+				"tresc": "10000",
+				"correct": false
 			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 27,
-		"tresc": "Model zarządzania jakością według norm serii 9000 uwzględnia:",
+		"tresc": "Jakie czynniki wywołują zmiany poubojowe?",
 		"odpowiedzi": [
 			{
-				"tresc": "potrzeby klienta w planowaniu i podejmowaniu działań",
+				"tresc": "Światło",
 				"correct": true
 			},
 			{
-				"tresc": "procesowe i systemowe podejście do zarządzania",
+				"tresc": "Tlen",
+				"correct": false
+			},
+			{
+				"tresc": "Enzymy",
 				"correct": true
 			},
 			{
-				"tresc": "wymagania prawne związane z ochroną pracowników",
-				"correct": false
-			},
-			{
-				"tresc": "wymagania prawne związane z ochroną środowiska",
-				"correct": false
+				"tresc": "Temperatura",
+				"correct": true
 			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 28,
-		"tresc": "Każde zidentyfikowane w systemie HACCP zagrożenie powinno posiadać:",
+		"tresc": "Jakie czynniki przekształcają kolagen w żelatynę?",
 		"odpowiedzi": [
-			{ "tresc": "procedury / instrukcje monitorowania", "correct": false },
-			{ "tresc": "środki zapobiegawcze", "correct": false },
-			{ "tresc": "działania korygujące", "correct": true },
-			{ "tresc": "limity krytyczne", "correct": false }
+			{
+				"tresc": "Światło",
+				"correct": false
+			},
+			{
+				"tresc": "Zasady",
+				"correct": true
+			},
+			{
+				"tresc": "Kwasy",
+				"correct": true
+			},
+			{
+				"tresc": "Temperatura",
+				"correct": true
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 29,
-		"tresc": "Wprowadzanie dokumentów systemu HACCP powinno być poprzedzone:",
+		"tresc": "Jaką temperaturę stosuje się w procesie parzenia kiełbasy średnio-rozdrobnionej?",
 		"odpowiedzi": [
-			{ "tresc": "trzykrotną weryfikacją", "correct": false },
-			{ "tresc": "nie powinno podlegać weryfikacji", "correct": false },
-			{ "tresc": "dwukrotną weryfikacją", "correct": true },
-			{ "tresc": "jednokrotną weryfikacją", "correct": false }
+			{
+				"tresc": "70–72°C",
+				"correct": true
+			},
+			{
+				"tresc": "72–74°C",
+				"correct": false
+			},
+			{
+				"tresc": "68–70°C",
+				"correct": false
+			},
+			{
+				"tresc": "68–72°C",
+				"correct": false
+			}
 		]
 	},
 	{
 		"rok": null,
 		"nr": 30,
-		"tresc": "Księga jakości to:",
+		"tresc": "Czy proces katabolizmu ma miejsce:",
 		"odpowiedzi": [
 			{
-				"tresc": "określa politykę i cele jednostki organizacyjnej oraz działania na rzecz zapewnienia jakości",
+				"tresc": "Podczas śmierci zwierzęcia",
 				"correct": true
 			},
 			{
-				"tresc": "jest podręcznikiem określającym sposób postępowania przy doskonaleniu jakości",
+				"tresc": "Podczas życia zwierzęcia",
 				"correct": false
 			},
 			{
-				"tresc": "odwołuje się do procedur systemowych instrukcji i zapisów",
+				"tresc": "Podczas oszałamiania",
+				"correct": false
+			},
+			{
+				"tresc": "Podczas jedzenia",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": 31,
+		"tresc": "W jakim celu wychładza się poubojowo tusze i półtusze zwierząt rzeźnych?",
+		"odpowiedzi": [
+			{
+				"tresc": "Zapobieganie utlenieniu tłuszczu",
+				"correct": false
+			},
+			{
+				"tresc": "Spowolnienie przemian enzymatycznych zachodzących w mięsie",
 				"correct": true
 			},
 			{
-				"tresc": "dokument opisujący ogólne działania przedsiębiorstwa",
+				"tresc": "Zahamowanie rozwoju mikroflory na powierzchni tuszy",
+				"correct": true
+			},
+			{
+				"tresc": "Przyspieszenie dojrzewania mięsa",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": 32,
+		"tresc": "Jakie surowce nie są wykorzystywane w produkcji wędlin podrobowych?",
+		"odpowiedzi": [
+			{
+				"tresc": "Wątroba, kasza manna",
+				"correct": false
+			},
+			{
+				"tresc": "Skóry, kasza jaglana",
+				"correct": true
+			},
+			{
+				"tresc": "Tłuszcz otokowy, kasza jęczmienna",
+				"correct": false
+			},
+			{
+				"tresc": "Podgardle, mięso niższych klas",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": 33,
+		"tresc": "Zaznacz nieprawidłową kolejność procesu produkcji parówki",
+		"odpowiedzi": [
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, rozdrabnianie w wilku, kutrowanie, napełnianie osłonek, osadzanie, wędzenie, parzenie, studzenie, chłodzenie",
+				"correct": false
+			},
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, rozdrabnianie w wilku, napełnianie osłonek, osadzanie, wędzenie, parzenie, studzenie, chłodzenie",
+				"correct": true
+			},
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, rozdrabnianie w wilku, kutrowanie, napełnianie osłonek, parzenie, studzenie, chłodzenie",
+				"correct": false
+			},
+			{
+				"tresc": "Ocena jakości surowca, peklowanie, rozdrabnianie w wilku, kutrowanie, parzenie, studzenie, chłodzenie",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": 34,
+		"tresc": "W jaki sposób spadek wartości pH wpływa na mięso?",
+		"odpowiedzi": [
+			{
+				"tresc": "Wyzwala endogenne przemiany poubojowe poprzez oddziaływanie na białka mięśniowe",
+				"correct": true
+			},
+			{
+				"tresc": "Wyzwala egzogenne przemiany poubojowe poprzez oddziaływanie na białka mięśniowe",
+				"correct": false
+			},
+			{
+				"tresc": "Hamuje rozwój mikroflory",
+				"correct": true
+			},
+			{
+				"tresc": "Generuje rozwój mikroflory",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": null,
+		"nr": 35,
+		"tresc": "Jakiego asortymentu dotyczy odchylenie jakościowe: wydzielanie się tłuszczu i galarety pod osłonką?",
+		"odpowiedzi": [
+			{
+				"tresc": "Konserw sterylizowanych",
+				"correct": false
+			},
+			{
+				"tresc": "Wędlin podrobowych",
+				"correct": true
+			},
+			{
+				"tresc": "Konserw pasteryzowanych",
+				"correct": false
+			},
+			{
+				"tresc": "Kiełbas parzonych",
 				"correct": true
 			}
 		]
