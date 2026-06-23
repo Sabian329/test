@@ -5,7 +5,7 @@
 		"tresc": "Zwierzęta rzeźne stresooporne cechują się:",
 		"odpowiedzi": [
 			{ "tresc": "przewagą włókien białych w tkance", "correct": false },
-			{ "tresc": "krótkim czasem trwania I fazy rigor", "correct": true },
+			{ "tresc": "krótkim czasem trwania I fazy rigor", "correct": false },
 			{ "tresc": "powolnym rozkładem glikogenu", "correct": true },
 			{ "tresc": "powolnym rozkładem ATP", "correct": true }
 		]
@@ -95,7 +95,7 @@
 			{ "tresc": "Na5P3O10", "correct": true },
 			{ "tresc": "K5P3O10", "correct": false },
 			{ "tresc": "Na2HPO4 (DSP)", "correct": true },
-			{ "tresc": "K4P2O7", "correct": true }
+			{ "tresc": "K4P2O7", "correct": false }
 		]
 	},
 	{
@@ -222,7 +222,7 @@
 		"nr": 20,
 		"tresc": "Wyciek galarety pod osłonkę kiełbasy parzonej może być powodowany:",
 		"odpowiedzi": [
-			{ "tresc": "użyciem mięsa o pH=pI", "correct": true },
+			{ "tresc": "użyciem mięsa o pH=pI", "correct": false },
 			{
 				"tresc": "nadmiarem surowców kolagenowych w recepturze",
 				"correct": true
@@ -662,7 +662,7 @@
 		"tresc": "W rozwiązaniach technicznych biosensorów opartych na tzw. „znacznikach” wykorzystuje się zjawisko:",
 		"odpowiedzi": [
 			{ "tresc": "fluorescencji", "correct": true },
-			{ "tresc": "piezoelektryczności", "correct": true },
+			{ "tresc": "piezoelektryczności", "correct": false },
 			{ "tresc": "radioaktywności", "correct": true },
 			{ "tresc": "piezorezystywności", "correct": false }
 		]
