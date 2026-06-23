@@ -6,7 +6,7 @@ import App from "./App.jsx";
 import { CLERK_PUBLISHABLE_KEY } from "./config.js";
 
 const publishableKey = String(
-	CLERK_PUBLISHABLE_KEY || import.meta.env.VITE_CLERK_PUBLISHABLE_KEY || "",
+	import.meta.env.VITE_CLERK_PUBLISHABLE_KEY || CLERK_PUBLISHABLE_KEY || "",
 ).trim();
 
 if (!publishableKey) {

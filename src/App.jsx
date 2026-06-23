@@ -2,17 +2,6 @@ import { useState } from "react";
 import { ClerkLoading, Show, SignIn, UserButton } from "@clerk/react";
 import { QUESTION_SETS, getQuestionSet } from "./questionSets.js";
 
-const clerkAppearance = {
-	variables: {
-		colorBackground: "#0000",
-		colorInputBackground: "#18181b",
-		colorInputText: "#fafafa",
-		colorPrimary: "#d97706",
-		colorText: "#fafafa",
-		colorTextSecondary: "#a1a1aa",
-	},
-};
-
 function resetQuizState() {
 	return {
 		currentIndex: 0,
