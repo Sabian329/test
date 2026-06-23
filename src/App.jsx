@@ -1,8 +1,17 @@
-import { useState, useEffect, useRef } from "react";
-import { SITE_PIN } from "./config.js";
+import { useState } from "react";
+import { ClerkLoading, Show, SignIn, UserButton } from "@clerk/react";
 import { QUESTION_SETS, getQuestionSet } from "./questionSets.js";
 
-const requiredPin = String(SITE_PIN ?? "").trim();
+const clerkAppearance = {
+	variables: {
+		colorBackground: "#0000",
+		colorInputBackground: "#18181b",
+		colorInputText: "#fafafa",
+		colorPrimary: "#d97706",
+		colorText: "#fafafa",
+		colorTextSecondary: "#a1a1aa",
+	},
+};
 
 function resetQuizState() {
 	return {
@@ -29,84 +38,28 @@ function isAnswerCorrect(question, selectedIndices) {
 	return true;
 }
 
-function PinGate({ onUnlock }) {
-	const [pin, setPin] = useState("");
-	const [error, setError] = useState("");
-	const inputRef = useRef(null);
-	useEffect(() => {
-		inputRef.current?.focus();
-	}, []);
-
-	const handleSubmit = (e) => {
-		e.preventDefault();
-		setError("");
-		const trimmed = pin.replace(/\D/g, "").slice(0, 6);
-		if (trimmed.length !== 6) {
-			setError("PIN musi mieć 6 cyfr");
-			return;
-		}
-		if (trimmed !== requiredPin) {
-			setError("Nieprawidłowy PIN");
-			setPin("");
-			return;
-		}
-		onUnlock();
-	};
-
-	const handleChange = (e) => {
-		const v = e.target.value.replace(/\D/g, "").slice(0, 6);
-		setPin(v);
-		setError("");
-	};
-
+function AuthScreen() {
 	return (
 		<div className="min-h-screen bg-zinc-950 text-zinc-100 flex flex-col items-center justify-center p-6">
-			<div className="w-full max-w-xs">
-				<h1 className="text-xl font-semibold text-zinc-200 mb-2 text-center">
+			<div className="w-full max-w-md mb-6 text-center">
+				<h1 className="text-xl font-semibold text-zinc-200">
 					Wejście do testu
 				</h1>
-				<p className="text-sm text-zinc-500 mb-6 text-center">
-					Wpisz 6-cyfrowy PIN
+				<p className="text-sm text-zinc-500 mt-2">
+					Zaloguj się, żeby kontynuować
 				</p>
-				<form onSubmit={handleSubmit}>
-					<input
-						ref={inputRef}
-						type="password"
-						inputMode="numeric"
-						autoComplete="one-time-code"
-						maxLength={6}
-						value={pin}
-						onChange={handleChange}
-						placeholder="••••••"
-						className="w-full px-4 py-3 rounded-xl border border-zinc-600 bg-zinc-800/50 text-zinc-100 text-center text-lg tracking-[0.5em] placeholder:text-zinc-500 focus:outline-none focus:border-amber-500 focus:ring-1 focus:ring-amber-500"
-					/>
-					{error && (
-						<p className="mt-2 text-sm text-red-400 text-center">{error}</p>
-					)}
-					<button
-						type="submit"
-						className="mt-4 w-full py-2.5 bg-amber-600 hover:bg-amber-500 text-white font-medium rounded-lg transition-colors"
-					>
-						Wejdź
-					</button>
-				</form>
 			</div>
+			<SignIn routing="hash" />
 		</div>
 	);
 }
 
-function App() {
-	const [unlocked, setUnlocked] = useState(false);
+function QuizApp() {
 	const [selectedSetId, setSelectedSetId] = useState(QUESTION_SETS[0].id);
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [selectedIndices, setSelectedIndices] = useState([]);
 	const [resultShownForIndex, setResultShownForIndex] = useState(null);
 	const [answers, setAnswers] = useState({});
-
-	const pinRequired = requiredPin.length > 0;
-	if (pinRequired && !unlocked) {
-		return <PinGate onUnlock={() => setUnlocked(true)} />;
-	}
 
 	const activeSet = getQuestionSet(selectedSetId);
 	const pytania = activeSet.questions;
@@ -227,10 +180,15 @@ function App() {
 			<header className="border-b border-zinc-800 px-6 py-4">
 				<div className="max-w-2xl mx-auto space-y-3">
 					<div className="flex items-center justify-between gap-4">
-						<h1 className="text-lg font-semibold text-zinc-200 shrink-0">Test</h1>
-						<span className="text-sm text-zinc-500 shrink-0">
-							Pytanie {currentIndex + 1} / {pytania.length}
-						</span>
+						<h1 className="text-lg font-semibold text-zinc-200 shrink-0">
+							Test
+						</h1>
+						<div className="flex items-center gap-3 shrink-0">
+							<span className="text-sm text-zinc-500">
+								Pytanie {currentIndex + 1} / {pytania.length}
+							</span>
+							<UserButton />
+						</div>
 					</div>
 					<label className="flex flex-col gap-1.5 sm:flex-row sm:items-center sm:gap-3">
 						<span className="text-sm text-zinc-400 shrink-0">Zestaw pytań</span>
@@ -331,6 +289,24 @@ function App() {
 				</article>
 			</main>
 		</div>
+	);
+}
+
+function App() {
+	return (
+		<>
+			<ClerkLoading>
+				<div className="min-h-screen bg-zinc-950 flex items-center justify-center">
+					<p className="text-zinc-400 text-sm">Ładowanie...</p>
+				</div>
+			</ClerkLoading>
+			<Show when="signed-out">
+				<AuthScreen />
+			</Show>
+			<Show when="signed-in">
+				<QuizApp />
+			</Show>
+		</>
 	);
 }
 
