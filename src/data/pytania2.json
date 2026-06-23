@@ -1,0 +1,670 @@
+[
+	{
+		"rok": 2022,
+		"nr": 1,
+		"tresc": "Zwierzęta rzeźne stresooporne cechują się:",
+		"odpowiedzi": [
+			{ "tresc": "przewagą włókien białych w tkance", "correct": false },
+			{ "tresc": "krótkim czasem trwania I fazy rigor", "correct": true },
+			{ "tresc": "powolnym rozkładem glikogenu", "correct": true },
+			{ "tresc": "powolnym rozkładem ATP", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 2,
+		"tresc": "Kolagen jest białkiem budulcowym:",
+		"odpowiedzi": [
+			{ "tresc": "skóry", "correct": true },
+			{ "tresc": "kości", "correct": true },
+			{ "tresc": "błon łącznotkankowych mięsa", "correct": true },
+			{ "tresc": "rogowizny", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 3,
+		"tresc": "Mioglobina zlokalizowana jest w:",
+		"odpowiedzi": [
+			{ "tresc": "sarkoplazmie", "correct": true },
+			{ "tresc": "miofibrylach", "correct": false },
+			{ "tresc": "mitochondriach", "correct": false },
+			{ "tresc": "surowicy krwi", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 4,
+		"tresc": "Kinetykę reakcji oksydacji lipidów w surowicach mięsnych zwiększa:",
+		"odpowiedzi": [
+			{ "tresc": "żelazo hemowe", "correct": true },
+			{ "tresc": "ususzka", "correct": true },
+			{ "tresc": "NaCl", "correct": false },
+			{ "tresc": "zamrożenie", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 5,
+		"tresc": "Przyczyną powstawania wady DFD mięsa może być:",
+		"odpowiedzi": [
+			{ "tresc": "okarmienie przed ubojem", "correct": true },
+			{ "tresc": "stres przedubojowy", "correct": true },
+			{ "tresc": "nadmierna głodówka", "correct": true },
+			{ "tresc": "zmęczenie w transporcie", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 6,
+		"tresc": "Mięso normalnej jakości określa skrót:",
+		"odpowiedzi": [
+			{ "tresc": "ASE", "correct": false },
+			{ "tresc": "RSE", "correct": false },
+			{ "tresc": "RFN", "correct": true },
+			{ "tresc": "MNE", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 7,
+		"tresc": "Na pogorszenie jakości sensorycznej mięsa mogą mieć wpływ:",
+		"odpowiedzi": [
+			{ "tresc": "czynniki genetyczne", "correct": true },
+			{ "tresc": "składniki pasz stosowanych w hodowli", "correct": true },
+			{ "tresc": "pakowanie MAP", "correct": false },
+			{ "tresc": "zamrażanie", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 8,
+		"tresc": "Odczyn mięsa świńskiego (pH45) wskazujący na możliwość wystąpienia wady PSE wynosi:",
+		"odpowiedzi": [
+			{ "tresc": ">6,3", "correct": false },
+			{ "tresc": ">5,8", "correct": false },
+			{ "tresc": "<6,3", "correct": false },
+			{ "tresc": "<5,8", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 9,
+		"tresc": "Głównym składnikiem preparatów fosforanowych wykorzystanych do sporządzania solanek nastrzykowych jest:",
+		"odpowiedzi": [
+			{ "tresc": "Na5P3O10", "correct": true },
+			{ "tresc": "K5P3O10", "correct": false },
+			{ "tresc": "Na2HPO4 (DSP)", "correct": true },
+			{ "tresc": "K4P2O7", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 10,
+		"tresc": "Skurcz chłodniczy w wychłodzonym mięsie może wystąpić gdy jest:",
+		"odpowiedzi": [
+			{ "tresc": "temp <12°C, pH>6,5, zapas ATP", "correct": true },
+			{ "tresc": "temp <12°C, pH<6,5, zapas ATP", "correct": false },
+			{ "tresc": "temp >12°C, pH<6,5, brak ATP", "correct": false },
+			{ "tresc": "temp >12°C, pH<6,5, zapas ATP", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 11,
+		"tresc": "Największą warstwę wody może immobilizować:",
+		"odpowiedzi": [
+			{ "tresc": "miozyna", "correct": true },
+			{ "tresc": "nebulina", "correct": false },
+			{ "tresc": "desmina", "correct": false },
+			{ "tresc": "aktomiozyna", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 12,
+		"tresc": "Zwiększenie zdolności wiązania wody przez mięso może być spowodowane przez:",
+		"odpowiedzi": [
+			{ "tresc": "dodatek NaCl", "correct": true },
+			{ "tresc": "bardzo silne zakwaszenie", "correct": true },
+			{
+				"tresc": "alkalizację (dodatek węglanów i cytrynianów)",
+				"correct": true
+			},
+			{ "tresc": "zbuforowanie do pH=PI", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 13,
+		"tresc": "Wrażenie intensywnie czerwonej barwy na powierzchni mięsa może być powodowane przez:",
+		"odpowiedzi": [
+			{ "tresc": "mioglobinę", "correct": true },
+			{ "tresc": "oksymioglobinę", "correct": false },
+			{ "tresc": "karboksymioglobinę", "correct": false },
+			{ "tresc": "metmioglobinę", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 14,
+		"tresc": "Na powierzchni mięsa bezpośrednio po uboju dominują bakterie:",
+		"odpowiedzi": [
+			{ "tresc": "termofilne", "correct": false },
+			{ "tresc": "mezofilne", "correct": true },
+			{ "tresc": "psychotrofowe", "correct": false },
+			{ "tresc": "halofilne", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 15,
+		"tresc": "Acyloglicerole zawarte w tłuszczach świń i bydła zawierają największe ilości kwasów tłuszczowych:",
+		"odpowiedzi": [
+			{ "tresc": "C16", "correct": true },
+			{ "tresc": "C18", "correct": true },
+			{ "tresc": "C18:1", "correct": true },
+			{ "tresc": "C18:2", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 16,
+		"tresc": "O kruchości mięsa decyduje ilość zawartych w tkance:",
+		"odpowiedzi": [
+			{ "tresc": "włókien kolagenowych", "correct": true },
+			{ "tresc": "komórek tłuszczowych", "correct": true },
+			{ "tresc": "fibroblastów", "correct": true },
+			{ "tresc": "włókien elastycznych", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 17,
+		"tresc": "Przy przechowywaniu tłuszczy, działanie prooksydacyjne wykazuje:",
+		"odpowiedzi": [
+			{ "tresc": "kwas galusowy", "correct": false },
+			{ "tresc": "hemoglobina", "correct": false },
+			{ "tresc": "kwas nordihydrogwajaretowy", "correct": false },
+			{ "tresc": "promieniowanie UV", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 18,
+		"tresc": "Przyczyną tworzenia się na przekroju kiełbas surowych tzw. „szarego jądra” może być:",
+		"odpowiedzi": [
+			{ "tresc": "nadmiar substancji redukujących", "correct": false },
+			{
+				"tresc": "niedobór mikroorganizmów denitryfikujących",
+				"correct": false
+			},
+			{ "tresc": "zbyt szybkie osuszanie", "correct": true },
+			{ "tresc": "zatłuszczenie osłonki", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 19,
+		"tresc": "Szara marmurkowatość przekroju kiełbas surowych może być powodowana:",
+		"odpowiedzi": [
+			{
+				"tresc": "za niską temperaturą do rozwoju mikroflory denitryfikującej",
+				"correct": true
+			},
+			{ "tresc": "za niskim stężeniem reduktorów", "correct": false },
+			{ "tresc": "brakiem mikroflory denitryfikującej", "correct": false },
+			{ "tresc": "za niskim stężeniem NaCl", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 20,
+		"tresc": "Wyciek galarety pod osłonkę kiełbasy parzonej może być powodowany:",
+		"odpowiedzi": [
+			{ "tresc": "użyciem mięsa o pH=pI", "correct": true },
+			{
+				"tresc": "nadmiarem surowców kolagenowych w recepturze",
+				"correct": true
+			},
+			{ "tresc": "zbyt wysokim stężeniem NaCl", "correct": false },
+			{ "tresc": "zwiększeniem pH farszu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 21,
+		"tresc": "Przyczyną występowania małych otworów przypominających farsz kutrowany na przekroju szynki mogą być:",
+		"odpowiedzi": [
+			{ "tresc": "nastrzyk piany", "correct": true },
+			{ "tresc": "zbyt wysokie masowanie", "correct": true },
+			{ "tresc": "zbyt krótkie masowanie", "correct": false },
+			{ "tresc": "zbyt duża próżnia", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 22,
+		"tresc": "Zielone przebarwienia na przekroju szynki mogą być powodowane:",
+		"odpowiedzi": [
+			{ "tresc": "zakażeniem mikrobiologicznym surowca", "correct": true },
+			{ "tresc": "niską higieną porcjowania i pakowania", "correct": true },
+			{ "tresc": "masowaniem przy zbyt niskiej próżni", "correct": true },
+			{ "tresc": "przegrzaniem podczas obróbki cieplnej", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 23,
+		"tresc": "Przyczyną nadmiernego wycieku na przekroju z szynek wytwarzanych w siatce może być:",
+		"odpowiedzi": [
+			{ "tresc": "użycie do produkcji mięsa o pH<5,8", "correct": true },
+			{ "tresc": "zbyt długie masowanie", "correct": false },
+			{
+				"tresc": "użycie do sporządzenia solanki twardej wody",
+				"correct": false
+			},
+			{ "tresc": "zbyt niskie stężenie soli", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 24,
+		"tresc": "Aminą biogenną powstającą w procesie dekarboksylacji z seryny jest:",
+		"odpowiedzi": [
+			{ "tresc": "putrescyna", "correct": false },
+			{ "tresc": "etanoloamina", "correct": true },
+			{ "tresc": "serotonina", "correct": false },
+			{ "tresc": "histamina", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 25,
+		"tresc": "Odrażający zapach gnijącego mięsa tworzą:",
+		"odpowiedzi": [
+			{ "tresc": "merkaptoetanol", "correct": true },
+			{ "tresc": "aminy", "correct": true },
+			{ "tresc": "skatol", "correct": true },
+			{ "tresc": "amidy", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 26,
+		"tresc": "Wyczuwalność zapachu kwasu masłowego po otworzeniu konserwy mięsnej może wskazywać na:",
+		"odpowiedzi": [
+			{ "tresc": "możliwość zakażenia laseczką kiełbasianą", "correct": true },
+			{ "tresc": "błędy przy peklowaniu wsadu konserwy", "correct": true },
+			{ "tresc": "błędy obróbki cieplnej konserwy", "correct": true },
+			{ "tresc": "udział we wsadzie zjełczałej słoniny", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 27,
+		"tresc": "W szybko zamrażanej żywności, strefa wymrażanej wody przesuwa się z prędkością, co najmniej:",
+		"odpowiedzi": [
+			{ "tresc": "1 [cm/godz]", "correct": false },
+			{ "tresc": "2 [cm/godz]", "correct": false },
+			{ "tresc": "5 [cm/godz]", "correct": true },
+			{ "tresc": "20 [cm/godz]", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 28,
+		"tresc": "Kwas askorbinowy, izoaskorbinowy i ich sole spełniają w procesie peklowania rolę:",
+		"odpowiedzi": [
+			{ "tresc": "przeciwutleniającą", "correct": true },
+			{ "tresc": "redukcji wobec azotanu (III)", "correct": true },
+			{
+				"tresc": "podstawnika w syntezie nitrozylhemoglobiny",
+				"correct": false
+			},
+			{ "tresc": "stabilizatora nitrozylhemochromu", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 29,
+		"tresc": "W reakcję z barwnikiem hemowym mięsa wchodzi:",
+		"odpowiedzi": [
+			{ "tresc": "20–30% NO", "correct": false },
+			{ "tresc": "6–14% NO", "correct": true },
+			{ "tresc": "do 5% NO", "correct": false },
+			{ "tresc": "powyżej 30% NO", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 30,
+		"tresc": "W wyniku przemian pośmiertnych związków fosforowych zawartych w mięsie ryb może powstawać:",
+		"odpowiedzi": [
+			{ "tresc": "inozyna", "correct": true },
+			{ "tresc": "hipoksantyna", "correct": false },
+			{ "tresc": "kwas moczowy", "correct": true },
+			{ "tresc": "kwas mlekowy", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 31,
+		"tresc": "DMA (dimetyloamina) z TMAO (tlenku trimetyloaminy) powstaje głównie podczas:",
+		"odpowiedzi": [
+			{ "tresc": "składowania ryb w lodzie", "correct": false },
+			{ "tresc": "składowania zamrażalniczego", "correct": true },
+			{ "tresc": "płukania rozdrobnionego mięsa wodą", "correct": false },
+			{
+				"tresc": "płukania mięsa roztworami lekko alkalicznymi",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 32,
+		"tresc": "Do identyfikacji wad mięsa można wykorzystać:",
+		"odpowiedzi": [
+			{ "tresc": "pomiar wartości pH", "correct": true },
+			{ "tresc": "pomiar przewodnictwa elektrycznego", "correct": true },
+			{ "tresc": "pomiar barwy", "correct": true },
+			{ "tresc": "oznaczenie lotnych substancji zapachowych", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 33,
+		"tresc": "Składnikami bakteriostatycznymi zawartymi w dymie wędzarniczym są:",
+		"odpowiedzi": [
+			{ "tresc": "fenole", "correct": true },
+			{ "tresc": "kwasy", "correct": false },
+			{ "tresc": "związki karbonylowe", "correct": false },
+			{ "tresc": "związki amonowe", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 34,
+		"tresc": "Składnikami dymu o silnych właściwościach przeciwutleniających są:",
+		"odpowiedzi": [
+			{ "tresc": "fenole", "correct": true },
+			{ "tresc": "aldehydy", "correct": false },
+			{ "tresc": "alkohole", "correct": false },
+			{ "tresc": "kwasy", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 35,
+		"tresc": "Czas przechowywania w temp. od -18°C do -22°C zamrożonych ćwierćtusz wołowych ograniczony jest do:",
+		"odpowiedzi": [
+			{ "tresc": "6 miesięcy", "correct": false },
+			{ "tresc": "10 miesięcy", "correct": false },
+			{ "tresc": "12 miesięcy", "correct": false },
+			{ "tresc": "15 miesięcy", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 36,
+		"tresc": "Do głowonogów morskich zalicza się:",
+		"odpowiedzi": [
+			{ "tresc": "kalmary", "correct": true },
+			{ "tresc": "langusty", "correct": false },
+			{ "tresc": "homary", "correct": false },
+			{ "tresc": "mule", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 37,
+		"tresc": "Metodą unieszkodliwiania pasożytów zawartych w mięsie ryb może być:",
+		"odpowiedzi": [
+			{ "tresc": "zamrożenie mięsa", "correct": true },
+			{ "tresc": "zimne wędzenie", "correct": true },
+			{ "tresc": "solenie", "correct": false },
+			{ "tresc": "płukanie rozdrobnionego farszu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 38,
+		"tresc": "Skutkiem zmian denaturacyjnych białek podczas zamrażania mięsa może być:",
+		"odpowiedzi": [
+			{
+				"tresc": "wytworzenie kowalencyjnych wiązań sieciujących",
+				"correct": true
+			},
+			{ "tresc": "częściowa utrata właściwości emulgujących", "correct": true },
+			{ "tresc": "częściowa utrata właściwości żelujących", "correct": true },
+			{ "tresc": "częściowa utrata zdolności wiązania wody", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 39,
+		"tresc": "Oleje pozyskiwane z ryb morskich są dla człowieka głównym źródłem NNKT z rodziny:",
+		"odpowiedzi": [
+			{ "tresc": "n-3", "correct": true },
+			{ "tresc": "n-6", "correct": false },
+			{ "tresc": "n-7", "correct": false },
+			{ "tresc": "n-9", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 40,
+		"tresc": "Po osiągnięciu temp. -18°C w zamrażanym mięsie ilość wymrożonej wody wynosi:",
+		"odpowiedzi": [
+			{ "tresc": "50%", "correct": false },
+			{ "tresc": "75%", "correct": false },
+			{ "tresc": "80%", "correct": false },
+			{ "tresc": "90%", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 41,
+		"tresc": "Wartość użytkową ryb warunkują:",
+		"odpowiedzi": [
+			{ "tresc": "skład chemiczny tkanek", "correct": false },
+			{ "tresc": "czynniki genetyczne", "correct": false },
+			{ "tresc": "przemiany biochemiczne po złowieniu", "correct": false },
+			{ "tresc": "wymiary przestrzenne", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 42,
+		"tresc": "Radycydacja odpowiada napromieniowaniu produktu na poziomie:",
+		"odpowiedzi": [
+			{ "tresc": "<1 kGy", "correct": false },
+			{ "tresc": "1–10 kGy", "correct": true },
+			{ "tresc": "10–50 kGy", "correct": false },
+			{ "tresc": ">50 kGy", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 43,
+		"tresc": "Po ogrzewaniu mięsa, reakcje Maillarda zachodzą w temperaturze:",
+		"odpowiedzi": [
+			{ "tresc": "50–60°C", "correct": false },
+			{ "tresc": "60–70°C", "correct": false },
+			{ "tresc": "70–80°C", "correct": false },
+			{ "tresc": "140–160°C", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 44,
+		"tresc": "Promieniowaniem jonizującym jest:",
+		"odpowiedzi": [
+			{ "tresc": "promieniowanie ultrafioletowe", "correct": true },
+			{ "tresc": "promieniowanie podczerwone", "correct": false },
+			{ "tresc": "promieniowanie alfa", "correct": true },
+			{ "tresc": "promieniowanie gamma", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 45,
+		"tresc": "Oporność cieplna D jest to czas, po którym liczba drobnoustrojów skutkiem stosowanego procesu ulega zmniejszeniu:",
+		"odpowiedzi": [
+			{ "tresc": "do 1/10 początkowej liczby", "correct": true },
+			{ "tresc": "o 10%", "correct": false },
+			{ "tresc": "10-krotnie", "correct": true },
+			{ "tresc": "100-krotnie", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 46,
+		"tresc": "W ocenie stopnia świeżości ryb wykorzystywane może być oznaczenie zawartości:",
+		"odpowiedzi": [
+			{ "tresc": "TMA", "correct": true },
+			{ "tresc": "AMP", "correct": false },
+			{ "tresc": "IMP", "correct": false },
+			{ "tresc": "hipoksantyny", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 47,
+		"tresc": "Wystąpienie wady PSE mięsa świńskiego powodowane może być:",
+		"odpowiedzi": [
+			{ "tresc": "stresem zwierzęcia", "correct": true },
+			{ "tresc": "intensywnym wychładzaniem", "correct": false },
+			{ "tresc": "niskim poziomem glikogenu", "correct": true },
+			{ "tresc": "wysokim poziomem glikogenu", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 48,
+		"tresc": "Trzoda chlewna o cechach podatności na stres, w stanie mięśni pre-rigor, cechuje się:",
+		"odpowiedzi": [
+			{ "tresc": "krótkim czasem I fazy rigor", "correct": true },
+			{ "tresc": "długim czasem I fazy rigor", "correct": false },
+			{ "tresc": "większą liczbą włókien białych", "correct": true },
+			{ "tresc": "większą liczbą włókien czerwonych", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 49,
+		"tresc": "Powstawanie kompleksu aktomiozyny post-mortem skutkuje:",
+		"odpowiedzi": [
+			{ "tresc": "zwiększeniem zdolności do wiązania wody", "correct": false },
+			{ "tresc": "zmniejszeniem zdolności do wiązania wody", "correct": true },
+			{ "tresc": "zwiększeniem ekstraktywności miozyny", "correct": false },
+			{ "tresc": "zmniejszeniem ekstraktywności miozyny", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 50,
+		"tresc": "Bezpośrednio z grupami funkcyjnymi łańcucha białkowego połączona jest warstwa:",
+		"odpowiedzi": [
+			{ "tresc": "wody związanej", "correct": true },
+			{ "tresc": "wody immobilizowanej", "correct": false },
+			{ "tresc": "wody wolnej", "correct": false },
+			{ "tresc": "wody strukturalnej", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 51,
+		"tresc": "Żelazo na 2 stopniu utlenienia znajduje się w cząsteczce:",
+		"odpowiedzi": [
+			{ "tresc": "karboksyhemoglobiny", "correct": true },
+			{ "tresc": "mioglobiny", "correct": true },
+			{ "tresc": "oksymioglobiny", "correct": true },
+			{ "tresc": "metmioglobiny", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 52,
+		"tresc": "Maksymalna zawartość fosforanów dodanych w przeliczeniu na P2O5 w przetworach mięsnych w Polsce to:",
+		"odpowiedzi": [
+			{ "tresc": "5000 ppm", "correct": true },
+			{ "tresc": "3000 ppm", "correct": false },
+			{ "tresc": "2000 ppm", "correct": false },
+			{ "tresc": "1500 ppm", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 53,
+		"tresc": "Skuteczne unieszkodliwienie pasożytów ryb może następować skutkiem:",
+		"odpowiedzi": [
+			{
+				"tresc": "zamrożenia do -20°C i składowania przez 3 doby",
+				"correct": true
+			},
+			{ "tresc": "ogrzania do temp. min. 60°C", "correct": true },
+			{
+				"tresc": "zasolenia (14% NaCl w tkance) przez 6 tygodni",
+				"correct": true
+			},
+			{ "tresc": "zimnego wędzenia", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 54,
+		"tresc": "Mięso makrelowatych, śledziowatych lub sardelowatych może być skażone:",
+		"odpowiedzi": [
+			{ "tresc": "scombrotoksyną", "correct": true },
+			{ "tresc": "tetrodotoksyną", "correct": false },
+			{ "tresc": "histaminą", "correct": true },
+			{ "tresc": "ciguatoksyną", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 55,
+		"tresc": "Wg Rozp. WE nr 1881/2006, najwyższy dopuszczalny poziom zanieczyszczenia ołowiem w rybach to:",
+		"odpowiedzi": [
+			{ "tresc": "0,3 mg/kg", "correct": true },
+			{ "tresc": "0,03 mg/kg", "correct": false },
+			{ "tresc": "0,5 mg/kg", "correct": false },
+			{ "tresc": "0,05 mg/kg", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 56,
+		"tresc": "Spożycie ryb i owoców morza w Polsce na jednego mieszkańca/rok jest na poziomie ok.:",
+		"odpowiedzi": [
+			{ "tresc": "13 kg", "correct": true },
+			{ "tresc": "23 kg", "correct": false },
+			{ "tresc": "18 kg", "correct": false },
+			{ "tresc": "28 kg", "correct": false }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 57,
+		"tresc": "Przy wytwarzaniu biosensorów stosowane mogą być metody:",
+		"odpowiedzi": [
+			{ "tresc": "biotynylacji peptydów", "correct": true },
+			{ "tresc": "reakcje deprotekcji chemicznej", "correct": true },
+			{ "tresc": "reakcje plasteinowania", "correct": false },
+			{ "tresc": "fotolitografii", "correct": true }
+		]
+	},
+	{
+		"rok": 2022,
+		"nr": 58,
+		"tresc": "W rozwiązaniach technicznych biosensorów opartych na tzw. „znacznikach” wykorzystuje się zjawisko:",
+		"odpowiedzi": [
+			{ "tresc": "fluorescencji", "correct": true },
+			{ "tresc": "piezoelektryczności", "correct": true },
+			{ "tresc": "radioaktywności", "correct": true },
+			{ "tresc": "piezorezystywności", "correct": false }
+		]
+	}
+]

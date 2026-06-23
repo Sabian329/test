@@ -1,8 +1,17 @@
 import { useState, useEffect, useRef } from "react";
-import pytania from "./data/pytania.json";
 import { SITE_PIN } from "./config.js";
+import { QUESTION_SETS, getQuestionSet } from "./questionSets.js";
 
 const requiredPin = String(SITE_PIN ?? "").trim();
+
+function resetQuizState() {
+	return {
+		currentIndex: 0,
+		selectedIndices: [],
+		resultShownForIndex: null,
+		answers: {},
+	};
+}
 
 function getCorrectCount(question) {
 	return question.odpowiedzi.filter((o) => o.correct).length;
@@ -88,6 +97,7 @@ function PinGate({ onUnlock }) {
 
 function App() {
 	const [unlocked, setUnlocked] = useState(false);
+	const [selectedSetId, setSelectedSetId] = useState(QUESTION_SETS[0].id);
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [selectedIndices, setSelectedIndices] = useState([]);
 	const [resultShownForIndex, setResultShownForIndex] = useState(null);
@@ -97,6 +107,18 @@ function App() {
 	if (pinRequired && !unlocked) {
 		return <PinGate onUnlock={() => setUnlocked(true)} />;
 	}
+
+	const activeSet = getQuestionSet(selectedSetId);
+	const pytania = activeSet.questions;
+
+	const handleSetChange = (e) => {
+		setSelectedSetId(e.target.value);
+		const reset = resetQuizState();
+		setCurrentIndex(reset.currentIndex);
+		setSelectedIndices(reset.selectedIndices);
+		setResultShownForIndex(reset.resultShownForIndex);
+		setAnswers(reset.answers);
+	};
 
 	const question = pytania[currentIndex];
 	const isMultiSelect = getCorrectCount(question) > 1;
@@ -203,18 +225,34 @@ function App() {
 				</div>
 			)}
 			<header className="border-b border-zinc-800 px-6 py-4">
-				<div className="max-w-2xl mx-auto flex items-center justify-between">
-					<h1 className="text-lg font-semibold text-zinc-200">Test</h1>
-					<span className="text-sm text-zinc-500">
-						Pytanie {currentIndex + 1} / {pytania.length}
-					</span>
+				<div className="max-w-2xl mx-auto space-y-3">
+					<div className="flex items-center justify-between gap-4">
+						<h1 className="text-lg font-semibold text-zinc-200 shrink-0">Test</h1>
+						<span className="text-sm text-zinc-500 shrink-0">
+							Pytanie {currentIndex + 1} / {pytania.length}
+						</span>
+					</div>
+					<label className="flex flex-col gap-1.5 sm:flex-row sm:items-center sm:gap-3">
+						<span className="text-sm text-zinc-400 shrink-0">Zestaw pytań</span>
+						<select
+							value={selectedSetId}
+							onChange={handleSetChange}
+							className="w-full sm:flex-1 px-3 py-2 rounded-lg border border-zinc-600 bg-zinc-800/50 text-zinc-100 text-sm focus:outline-none focus:border-amber-500 focus:ring-1 focus:ring-amber-500"
+						>
+							{QUESTION_SETS.map((set) => (
+								<option key={set.id} value={set.id}>
+									{set.label} ({set.questions.length} pytań)
+								</option>
+							))}
+						</select>
+					</label>
 				</div>
 			</header>
 
 			<main className="flex-1 flex flex-col items-center justify-center p-6">
 				<article className="w-full max-w-2xl">
 					<div className="mb-2 text-xs text-zinc-500">
-						{question.rok} · nr {question.nr}
+						{question.rok != null && `${question.rok} · `}nr {question.nr}
 						{isMultiSelect && (
 							<span className="ml-2 text-amber-400/90">
 								· wielokrotny wybór
@@ -230,7 +268,7 @@ function App() {
 							const style = getOptionStyle(odp, index);
 							const shapeClass = isMultiSelect ? "rounded-md" : "rounded-full";
 							return (
-								<li key={`${question.nr}-${index}`}>
+								<li key={`${selectedSetId}-${question.nr}-${index}`}>
 									<button
 										type="button"
 										onClick={() => handleSelect(index)}
