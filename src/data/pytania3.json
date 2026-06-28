@@ -1,0 +1,451 @@
+[
+	{
+		"rok": 2021,
+		"nr": 1,
+		"tresc": "Białka mąki żytniej podczas tworzenia się ciast:",
+		"odpowiedzi": [
+			{ "tresc": "Tworzą usieciowaną strukturę", "correct": false },
+			{ "tresc": "Pęcznieją w dużym stopniu", "correct": true },
+			{
+				"tresc": "Pęcznieją w takim samym stopniu jak białka pszenne",
+				"correct": false
+			},
+			{ "tresc": "Tworzą strukturę ziarnistą", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 2,
+		"tresc": "O strukturze ciasta żytniego decydują:",
+		"odpowiedzi": [
+			{ "tresc": "Aktywność amylaz", "correct": true },
+			{ "tresc": "Aktywność ksylanaz", "correct": true },
+			{ "tresc": "Ilość i jakość białka", "correct": false },
+			{ "tresc": "Zawartość pentozanów", "correct": true },
+			{ "tresc": "Właściwości skrobi", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 3,
+		"tresc": "W produkcji ciast francuskich stosuje się:",
+		"odpowiedzi": [
+			{
+				"tresc": "Mąkę pszenną zawierającą elastyczny gluten",
+				"correct": true
+			},
+			{ "tresc": "Mąkę pszenną zawierającą 25% glutenu", "correct": false },
+			{ "tresc": "Dodatek kwasów organicznych", "correct": true },
+			{ "tresc": "Dodatek ciepłej wody", "correct": false },
+			{ "tresc": "Mąkę pszenną zawierającą mocny gluten", "correct": true },
+			{ "tresc": "Mąkę pszenną zawierającą 35% glutenu", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 4,
+		"tresc": "Kondycjonowanie ziarna ma na celu:",
+		"odpowiedzi": [
+			{
+				"tresc": "Wzrost ilości mąki o zwiększonej zawartości składników mineralnych",
+				"correct": false
+			},
+			{ "tresc": "Uelastycznienie bielma", "correct": false },
+			{ "tresc": "Lepsze oddzielenie okrywy od bielma", "correct": true },
+			{ "tresc": "Wzrost kruchości okrywy", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 5,
+		"tresc": "Do miesiarek średnioobrotowych zaliczamy miesiarki:",
+		"odpowiedzi": [
+			{ "tresc": "Kątowe łapowe", "correct": false },
+			{ "tresc": "Pionowe hakowe", "correct": false },
+			{ "tresc": "Kątowe widelcowe", "correct": true },
+			{ "tresc": "Pionowe spiralne", "correct": true },
+			{ "tresc": "Zetowe", "correct": false },
+			{ "tresc": "Pionowe śmigłowe", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 6,
+		"tresc": "Typ mąki określa:",
+		"odpowiedzi": [
+			{ "tresc": "Zawartość glutenu", "correct": false },
+			{ "tresc": "Gatunek zboża", "correct": false },
+			{ "tresc": "Zawartość składników mineralnych", "correct": true },
+			{ "tresc": "Rodzaj zboża", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 7,
+		"tresc": "W procesie przerobu gryki na kaszę i mąkę stosuje się:",
+		"odpowiedzi": [
+			{ "tresc": "Obłuskiwanie", "correct": true },
+			{ "tresc": "Obłuskiwanie i obtaczanie", "correct": false },
+			{ "tresc": "Obłuskiwanie i polerowanie", "correct": false },
+			{ "tresc": "Polerowanie i obtaczanie", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 8,
+		"tresc": "Mikroorganizmy odpowiedzialne za fermentację ciasta żytniego to:",
+		"odpowiedzi": [
+			{ "tresc": "Lactobacillus", "correct": true },
+			{ "tresc": "Streptobacterium", "correct": true },
+			{ "tresc": "Betabacterium", "correct": true },
+			{ "tresc": "Thermobacterium", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 9,
+		"tresc": "Rodzaje środków spulchniających stosowanych w piekarstwie i ciastkarstwie to:",
+		"odpowiedzi": [
+			{ "tresc": "Biologiczne, np. drożdże", "correct": true },
+			{ "tresc": "Chemiczne, np. proszek do pieczenia", "correct": true },
+			{ "tresc": "Fizyczne, np. wysycanie gazem i aeracja", "correct": true },
+			{ "tresc": "Mineralne, np. sole mineralne", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 10,
+		"tresc": "Do asortymentu ciast drożdżowych zalicza się:",
+		"odpowiedzi": [
+			{ "tresc": "Strucla makowa", "correct": true },
+			{ "tresc": "Briosze", "correct": true },
+			{ "tresc": "Bułeczki z nadzieniem", "correct": true },
+			{ "tresc": "Chałka zdobna", "correct": false },
+			{ "tresc": "Rogale maślane", "correct": false },
+			{ "tresc": "Strucla turecka", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 11,
+		"tresc": "Podczas tworzenia się ciasta pszennego, po dodaniu wody do mąki, wyróżnia się kilka faz jego powstawania. Ciasto pszenne w fazie rozwoju:",
+		"odpowiedzi": [
+			{ "tresc": "Utrzymuje stałą konsystencję", "correct": true },
+			{
+				"tresc": "Ma luźną konsystencję i jest lepkie w dotyku",
+				"correct": false
+			},
+			{
+				"tresc": "Pojedyncze cząstki mąki chłoną wodę i łączą się ze sobą",
+				"correct": false
+			},
+			{ "tresc": "Ma ekstremalne właściwości lepko-sprężyste", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 12,
+		"tresc": "Zdolność do wytwarzania CO2 w cieście chlebowym zależy od:",
+		"odpowiedzi": [
+			{ "tresc": "Scukrzania, czyli rozkładu skrobi", "correct": true },
+			{ "tresc": "Zawartości tłuszczu w cieście", "correct": false },
+			{ "tresc": "Stopnia wymieszania ciasta z solą", "correct": false },
+			{ "tresc": "Ilości składników mineralnych w mące", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 13,
+		"tresc": "Podstawowe składniki ciasta kruchego to:",
+		"odpowiedzi": [
+			{ "tresc": "Chemiczne środki spulchniające", "correct": false },
+			{ "tresc": "Jaja", "correct": false },
+			{ "tresc": "Cukier", "correct": true },
+			{ "tresc": "Mąka pszenna o mocnym glutenie", "correct": false },
+			{ "tresc": "Tłuszcz", "correct": true },
+			{ "tresc": "Mąka pszenna o słabym glutenie", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 14,
+		"tresc": "Zbadano mąkę pszenną typu 550 i uzyskano wyniki: liczba opadania 260 s, zawartość glutenu 28%, wskaźnik sedymentacyjny 40 cm3. Jaką wartością wypiekową cechuje się badana mąka?",
+		"odpowiedzi": [
+			{ "tresc": "Bardzo słabą wartością wypiekową", "correct": false },
+			{ "tresc": "Dobrą wartością wypiekową", "correct": true },
+			{ "tresc": "Niską wartością wypiekową", "correct": false },
+			{ "tresc": "Nieprzydatną do wypieku", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 15,
+		"tresc": "Do mikroflory chorobotwórczej występującej w pieczywie lub wyrobach ciastkarskich zalicza się:",
+		"odpowiedzi": [
+			{ "tresc": "Aspergillus flavus", "correct": true },
+			{ "tresc": "Staphylococcus aureus", "correct": true },
+			{ "tresc": "Claviceps purpurea", "correct": true },
+			{ "tresc": "Bacterium prodigiosum", "correct": false },
+			{ "tresc": "Bacillus subtilis", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 16,
+		"tresc": "Mąka żytnia o dobrych właściwościach wypiekowych cechuje się:",
+		"odpowiedzi": [
+			{
+				"tresc": "Maksymalną lepkością kleiku 350–650 i liczbą opadania 120–200 s",
+				"correct": true
+			},
+			{
+				"tresc": "Maksymalną lepkością kleiku poniżej 100 i liczbą opadania powyżej 300 s",
+				"correct": false
+			},
+			{
+				"tresc": "Maksymalną lepkością kleiku 700–900 i liczbą opadania poniżej 80 s",
+				"correct": false
+			},
+			{
+				"tresc": "Maksymalną lepkością kleiku 100–200 i liczbą opadania 300–400 s",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 17,
+		"tresc": "Rozrost wstępny kęsów ciasta:",
+		"odpowiedzi": [
+			{ "tresc": "Trwa 20–120 min", "correct": false },
+			{ "tresc": "Trwa 5–8 min", "correct": true },
+			{
+				"tresc": "Stosuje się zarówno dla ciasta pszennego, jak i żytniego",
+				"correct": false
+			},
+			{ "tresc": "Stosuje się tylko dla ciasta pszennego", "correct": true },
+			{ "tresc": "Stosuje się tylko dla ciasta żytniego", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 18,
+		"tresc": "Pośrednia metoda wytwarzania ciasta pszennego jest zalecana przy produkcji pieczywa:",
+		"odpowiedzi": [
+			{ "tresc": "O delikatnym smaku", "correct": false },
+			{ "tresc": "Z mąki zawierającej mocny gluten", "correct": true },
+			{ "tresc": "Z mąki o słabych wartościach wypiekowych", "correct": false },
+			{ "tresc": "W okresie jesienno-zimowym", "correct": false },
+			{ "tresc": "W okresie letnim", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 19,
+		"tresc": "Prawidłowa kolejność etapów podczas wytwarzania ciast biszkoptowo-tłuszczowych metodą „na zimno” to:",
+		"odpowiedzi": [
+			{
+				"tresc": "Napowietrzanie tłuszczu z cukrem → stopniowe dodawanie jaj → dodawanie chemicznego środka spulchniającego do mąki → dodawanie mąki i środka spulchniającego do masy jajowo-tłuszczowo-cukrowej → powstanie ciasta",
+				"correct": true
+			},
+			{
+				"tresc": "Dodawanie jaj → napowietrzanie tłuszczu z cukrem → dodawanie mąki → dodawanie środka spulchniającego → powstanie ciasta",
+				"correct": false
+			},
+			{
+				"tresc": "Dodawanie mąki do jaj → dodawanie tłuszczu → napowietrzanie masy → dodawanie cukru → powstanie ciasta",
+				"correct": false
+			},
+			{
+				"tresc": "Napowietrzanie jaj z cukrem → dodawanie tłuszczu → dodawanie mąki → dodawanie wody → powstanie ciasta",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 20,
+		"tresc": "Przemiał złożony żyta składa się z etapów:",
+		"odpowiedzi": [
+			{ "tresc": "Rozczyniania i wymielania kaszek", "correct": false },
+			{ "tresc": "Śrutowania i wymielania kaszek", "correct": true },
+			{ "tresc": "Śrutowania i czyszczenia kaszek", "correct": false },
+			{ "tresc": "Śrutowania i rozczyniania kaszek", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 21,
+		"tresc": "Sękacz to produkt z ciasta:",
+		"odpowiedzi": [
+			{ "tresc": "Biszkoptowo-tłuszczowego", "correct": true },
+			{ "tresc": "Drożdżowego", "correct": false },
+			{ "tresc": "Kruchego", "correct": false },
+			{ "tresc": "Francuskiego", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 22,
+		"tresc": "Do zbóż należą:",
+		"odpowiedzi": [
+			{ "tresc": "Pszenica, ryż, kukurydza", "correct": true },
+			{ "tresc": "Pszenżyto, słonecznik, gryka", "correct": false },
+			{ "tresc": "Żyto, owies, proso", "correct": true },
+			{ "tresc": "Jęczmień, rzepak, pszenica", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 23,
+		"tresc": "O sile mąki pszennej decyduje:",
+		"odpowiedzi": [
+			{ "tresc": "Liczba glutenowa", "correct": true },
+			{ "tresc": "Zawartość błonnika", "correct": false },
+			{ "tresc": "Ilość skrobi uszkodzonej", "correct": false },
+			{ "tresc": "Barwa mąki", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 24,
+		"tresc": "W jakich warunkach powinien przebiegać wypiek pieczywa pszennego i żytniego?",
+		"odpowiedzi": [
+			{
+				"tresc": "Pszenne: 250–260°C, 3–4 min, wilgotność 70%; żytnie: 300°C, 4–5 min, wilgotność 30–40%",
+				"correct": true
+			},
+			{
+				"tresc": "Pszenne: 180–200°C, 10–15 min, wilgotność 30%; żytnie: 220°C, 2–3 min, wilgotność 70%",
+				"correct": false
+			},
+			{
+				"tresc": "Pszenne: 300°C, 4–5 min, wilgotność 30–40%; żytnie: 250–260°C, 3–4 min, wilgotność 70%",
+				"correct": false
+			},
+			{
+				"tresc": "Pszenne i żytnie: 180°C, 20 min, wilgotność 50%",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 25,
+		"tresc": "Wraz ze wzrostem wydajności mąki przy przemiale wzrasta zawartość:",
+		"odpowiedzi": [
+			{
+				"tresc": "Błonnika, składników mineralnych, witamin z grupy B",
+				"correct": true
+			},
+			{ "tresc": "Glutenu i skrobi", "correct": false },
+			{ "tresc": "Skrobi, białka, składników mineralnych", "correct": false },
+			{ "tresc": "Błonnika, witamin z grupy B, skrobi", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 26,
+		"tresc": "Procesy zachodzące podczas dojrzewania mąki powodują:",
+		"odpowiedzi": [
+			{ "tresc": "Pojaśnienie barwy, wzrost kwasowości", "correct": true },
+			{
+				"tresc": "Zmniejszenie kwasowości, wzrost aktywności amylaz",
+				"correct": false
+			},
+			{
+				"tresc": "Zwiększenie rozpuszczalności białek, zmniejszenie kwasowości",
+				"correct": false
+			},
+			{
+				"tresc": "Pociemnienie barwy, poprawę jakości glutenu",
+				"correct": false
+			},
+			{
+				"tresc": "Poprawę jakości glutenu, obniżenie aktywności amylaz",
+				"correct": true
+			},
+			{
+				"tresc": "Wzrost kwasowości, zmniejszenie rozpuszczalności białek",
+				"correct": true
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 27,
+		"tresc": "Wielofazowa, tradycyjna metoda produkcji ciasta żytniego obejmuje kolejno fazy:",
+		"odpowiedzi": [
+			{
+				"tresc": "Zaczątek → przedkwas → półkwas → kwas → ciasto",
+				"correct": true
+			},
+			{
+				"tresc": "Przedkwas → zaczątek → kwas → półkwas → ciasto",
+				"correct": false
+			},
+			{
+				"tresc": "Kwas → półkwas → przedkwas → zaczątek → ciasto",
+				"correct": false
+			},
+			{
+				"tresc": "Zaczątek → kwas → przedkwas → ciasto → półkwas",
+				"correct": false
+			}
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 28,
+		"tresc": "Celem czyszczenia białego ziarna jest:",
+		"odpowiedzi": [
+			{
+				"tresc": "Usunięcie z powierzchni ziarna kurzu i brudu",
+				"correct": true
+			},
+			{
+				"tresc": "Zmiana właściwości strukturalno-mechanicznych ziarna",
+				"correct": false
+			},
+			{
+				"tresc": "Usunięcie zanieczyszczeń metalicznych pozostałych po wcześniejszym oczyszczeniu czarnym",
+				"correct": true
+			},
+			{ "tresc": "Usunięcie zanieczyszczeń luźnych", "correct": false }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 29,
+		"tresc": "Wysoką zawartością beta-glukanów wyróżniają się:",
+		"odpowiedzi": [
+			{ "tresc": "Proso, owies", "correct": false },
+			{ "tresc": "Gryka, jęczmień", "correct": false },
+			{ "tresc": "Proso, gryka", "correct": false },
+			{ "tresc": "Jęczmień, owies", "correct": true }
+		]
+	},
+	{
+		"rok": 2021,
+		"nr": 30,
+		"tresc": "Pieczywo półcukiernicze zawiera:",
+		"odpowiedzi": [
+			{
+				"tresc": "Tłuszczu i substancji słodzących powyżej 15 kg/100 kg mąki oraz składników innych niż mąka mniej niż 40%",
+				"correct": true
+			},
+			{
+				"tresc": "Tłuszczu i substancji słodzących poniżej 5 kg/100 kg mąki oraz składników innych niż mąka powyżej 50%",
+				"correct": false
+			},
+			{
+				"tresc": "Tłuszczu i substancji słodzących 5–10 kg/100 kg mąki oraz składników innych niż mąka 60%",
+				"correct": false
+			},
+			{
+				"tresc": "Tłuszczu i substancji słodzących powyżej 25 kg/100 kg mąki oraz składników innych niż mąka powyżej 60%",
+				"correct": false
+			}
+		]
+	}
+]
